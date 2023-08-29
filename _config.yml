@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Phd student in economics at the University of Warwick. Academic visitor at the Bank of England"
   location         : "United Kingdom"
-  employer         : "https://warwick.ac.uk/fac/soc/economics/staff/etolva/"
+  employer         : "University of Warwick"
   pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "edoardo.tolva@warwick.ac.uk"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/edoardotolva"
+  github           : https://github.com/edoardotolva
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/EdoardoTolva"
+  twitter          : https://twitter.com/EdoardoTolva
   vine             :
   weibo            :
   xing             :
