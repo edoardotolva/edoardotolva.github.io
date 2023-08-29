@@ -1,19 +1,12 @@
 ---
-title: "Teaching experience 2"
+title: "Senior Graduate Teaching Assistant"
 collection: teaching
-type: "Workshop"
+type: "Seminar"
 permalink: /teaching/WarwickTeach
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "University of Warwick"
+date: 2021-2022
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
+Heading 1 
+- International Economics (EC312)
+- Economics (EC204)
