@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Teaching Experience"
+permalink: /teaching/
+author_profile: true
+---
+
 ## University of Warwick 
 ### Senior Graduate Teaching Assistant: 2021/2022 
 * International Economics (EC312)
