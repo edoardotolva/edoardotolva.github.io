@@ -10,6 +10,6 @@ author_profile: true
 * International Economics (EC312)
 * Economics (EC204)
 
-## University of Camdridge 
+## University of Cambridge 
 ### Teaching Assistant for St John’s College: 2020/2021
 * Paper IV International Trade
