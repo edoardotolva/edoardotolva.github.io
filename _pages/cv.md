@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-You can find my cv <a href="https://drive.google.com/file/d/120iETGHYhkokpl8qqdre3AM6tPYJA-n8/view?pli=1">here</a>
+You can find my cv <a href="https://drive.google.com/file/d/1tOwRAY2F6Mry9y8rj0FRxG-21ZWoWG8S/view?pli=1">here</a>
 
 
