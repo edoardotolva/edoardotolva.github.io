@@ -31,6 +31,7 @@ author_profile: true
   .dropdown {
     position: relative;
     display: inline-block;
+    margin-right: 10px; /* Add space between the dropdowns */
   }
 
   /* Dropdown Content (Hidden by Default) */
@@ -69,19 +70,37 @@ author_profile: true
 <p>Welcome to the teaching page. Here you'll find resources for various courses.</p>
 
 <div class="dropdown">
-  <button class="dropbtn">Dropdown</button>
+  <button class="dropbtn">University of Warwick</button>
   <div class="dropdown-content">
-    <a href="#course1">Course 1</a>
-    <a href="#course2">Course 2</a>
-    <a href="#course3">Course 3</a>
+    <a href="#warwick_course1">Warwick Course 1</a>
+    <a href="#warwick_course2">Warwick Course 2</a>
+    <a href="#warwick_course3">Warwick Course 3</a>
   </div>
 </div>
 
-<h2 id="course1">Course 1</h2>
-<p>Details about Course 1.</p>
+<div class="dropdown">
+  <button class="dropbtn">University of Cambridge</button>
+  <div class="dropdown-content">
+    <a href="#cambridge_course1">Cambridge Course 1</a>
+    <a href="#cambridge_course2">Cambridge Course 2</a>
+    <a href="#cambridge_course3">Cambridge Course 3</a>
+  </div>
+</div>
 
-<h2 id="course2">Course 2</h2>
-<p>Details about Course 2.</p>
+<h2 id="warwick_course1">Warwick Course 1</h2>
+<p>Details about Warwick Course 1.</p>
 
-<h2 id="course3">Course 3</h2>
-<p>Details about Course 3.</p>
+<h2 id="warwick_course2">Warwick Course 2</h2>
+<p>Details about Warwick Course 2.</p>
+
+<h2 id="warwick_course3">Warwick Course 3</h2>
+<p>Details about Warwick Course 3.</p>
+
+<h2 id="cambridge_course1">Cambridge Course 1</h2>
+<p>Details about Cambridge Course 1.</p>
+
+<h2 id="cambridge_course2">Cambridge Course 2</h2>
+<p>Details about Cambridge Course 2.</p>
+
+<h2 id="cambridge_course3">Cambridge Course 3</h2>
+<p>Details about Cambridge Course 3.</p>
