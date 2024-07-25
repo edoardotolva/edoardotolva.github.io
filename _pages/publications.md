@@ -13,7 +13,7 @@ Job Market Paper
 Work in Progress
 -----
 * Brexit and the Trade Elasticity *(Draft coming soon)*, with  <a href="https://www.bankofengland.co.uk/research/Researchers/john-lewis" style="text-decoration: none" target="_blank">J. Lewis</a>
-* Oligopoly in International Trade Meets Oligopoly in Transportation Sector: Implications for the Gains from Trade, with E. Cristoforoni, <a href="https://www.marcoerrico.net/home-page" style="text-decoration: none" target="_blank">M. Errico</a>, and Federico Rodari
+* Oligopoly in International Trade Meets Oligopoly in Transportation Sector: Implications for the Gains from Trade, with E. Cristoforoni *(Draft coming soon)*, <a href="https://www.marcoerrico.net/home-page" style="text-decoration: none" target="_blank">M. Errico</a>, and Federico Rodari
 * Sourcing Strategies and Deforestation: Evidence from the Cocoa Supply Chain, with <a href="https://sites.google.com/site/davidedelprete1986/" style="text-decoration: none" target="_blank">D. Del Prete</a> and <a href="https://trase.earth/team/valentin-guye" style="text-decoration: none" target="_blank">V. Guye</a>
 * Endogenous Bilateral Trade Imbalances, with <a href="https://warwick.ac.uk/fac/soc/economics/staff/dnovy/" style="text-decoration: none" target="_blank">D. Novy</a>
 
