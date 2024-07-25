@@ -10,7 +10,7 @@
 
 
 ---
-layout: archive
+layout: default
 title: "Teaching Experience"
 permalink: /teaching/
 author_profile: true
