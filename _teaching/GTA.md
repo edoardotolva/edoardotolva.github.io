@@ -31,7 +31,7 @@ author_profile: true
 
 <h3 class="expandable-header">
  <span class="header-text">University of Cambridge: </span>
-    <span class="line"></span>
+    <!--<span class="line"></span> -->
     <span class="arrow">&#x25BC;</span>
 </h3>
 <div class="expandable-section">
@@ -52,7 +52,7 @@ author_profile: true
     }
 
     .header-text {
-        font-size: 18px;
+        font-size: 24px;
         color: #333; /* Adjust this color to match your site's text color */
         margin-right: 10px;
     }
