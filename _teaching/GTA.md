@@ -23,7 +23,7 @@ author_profile: true
  <b>  Senior Graduate Teaching Assistant (2021/2022):</b> 
     <ul>
         <li>  International Economics (EC312) </li>
-        <li>  Economics (EC204) </li>
+        <li>  Economics 2 (EC204) </li>
     </ul>
 </div>
 
