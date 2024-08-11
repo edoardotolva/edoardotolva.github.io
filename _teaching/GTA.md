@@ -16,62 +16,47 @@ author_profile: true
 
 
 <h3>University of Warwick</h3>
-<div class="dropdown">
-    <button class="dropbtn">More Details</button>
-    <div class="dropdown-content">
-        <a href="#">Course 1</a>
-        <a href="#">Course 2</a>
-        <a href="#">Course 3</a>
-    </div>
+<button class="expand-btn" onclick="toggleContent()">More Details</button>
+<div id="expandable-content" class="expandable-content">
+    <p>Add more detailed information teaching at University of Warwick. Hidden by default and shown when the button is clicked.</p>
+    <ul>
+       ### Senior Graduate Teaching Assistant: 2021/2022 
+* International Economics (EC312)
+* Economics (EC204)
+    </ul>
 </div>
 
 <style>
-    /* Dropdown container */
-    .dropdown {
-        position: relative;
-        display: inline-block;
-    }
-
-    /* Dropdown button */
-    .dropbtn {
+    .expand-btn {
         background-color: #4CAF50;
         color: white;
-        padding: 8px;
-        font-size: 14px;
+        padding: 10px;
+        font-size: 16px;
         border: none;
         cursor: pointer;
+        margin-top: 10px;
     }
 
-    /* Dropdown content */
-    .dropdown-content {
+    .expand-btn:focus {
+        outline: none;
+    }
+
+    .expandable-content {
         display: none;
-        position: absolute;
+        margin-top: 10px;
+        padding: 10px;
+        border-left: 4px solid #4CAF50;
         background-color: #f9f9f9;
-        min-width: 160px;
-        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-        z-index: 1;
-    }
-
-    /* Links inside the dropdown */
-    .dropdown-content a {
-        color: black;
-        padding: 12px 16px;
-        text-decoration: none;
-        display: block;
-    }
-
-    /* Change color of dropdown links on hover */
-    .dropdown-content a:hover {background-color: #f1f1f1;}
-
-    /* Show the dropdown menu on hover */
-    .dropdown:hover .dropdown-content {
-        display: block;
-    }
-
-    /* Change the background color of the dropdown button when the dropdown content is shown */
-    .dropdown:hover .dropbtn {
-        background-color: #3e8e41;
     }
 </style>
 
-
+<script>
+    function toggleContent() {
+        var content = document.getElementById("expandable-content");
+        if (content.style.display === "none" || content.style.display === "") {
+            content.style.display = "block";
+        } else {
+            content.style.display = "none";
+        }
+    }
+</script>
