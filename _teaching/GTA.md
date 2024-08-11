@@ -15,16 +15,16 @@ author_profile: true
 ### Teaching Assistant for St John’s College: 2020/2021
 * Paper IV International Trade 
 -->
- ## University of Warwick 
+## University of Warwick 
 <h3 class="expandable-header">
     <span class="line"></span>
     <span class="arrow">&#x25BC;</span>
 </h3>
 <div class="expandable-section">
+  Senior Graduate Teaching Assistant: 2021/2022 
     <ul>
-        ### Senior Graduate Teaching Assistant: 2021/2022 
-        * International Economics (EC312)
-        * Economics (EC204)
+        <li> International Economics (EC312) </li>
+        <li> Economics (EC204) </li>
     </ul>
 </div>
 
@@ -41,13 +41,13 @@ author_profile: true
     .line {
         flex-grow: 1;
         height: 2px;
-        background-color: #007BFF;
+        background-color:  #333;
         margin-right: 10px;
     }
 
     .arrow {
         font-size: 18px;
-        color: #007BFF;
+        color:  #333;
         transition: transform 0.3s ease;
     }
 
@@ -60,7 +60,7 @@ author_profile: true
         margin-top: 10px;
         padding: 10px;
         background-color: #f9f9f9;
-        border-left: 4px solid #007BFF;
+        # border-left: 4px solid #007BFF;
         transition: max-height 0.3s ease;
         overflow: hidden;
     }
