@@ -10,53 +10,65 @@ author_profile: true
 * International Economics (EC312)
 * Economics (EC204)
 
+<!--
 ## University of Cambridge 
 ### Teaching Assistant for St John’s College: 2020/2021
-* Paper IV International Trade
+* Paper IV International Trade 
+-->
 
-
-<h3>University of Warwick</h3>
-<button class="expand-btn" onclick="toggleContent()">More Details</button>
-<div id="expandable-content" class="expandable-content">
-    <p>Add more detailed information teaching at University of Warwick. Hidden by default and shown when the button is clicked.</p>
+<h3 class="expandable-header">University of Warwick</h3>
+<div class="expandable-section">
+    <p>Here you can provide detailed information about your work at the University of Warwick. This content will be hidden by default and shown when the header is clicked.</p>
     <ul>
-       ### Senior Graduate Teaching Assistant: 2021/2022 
-* International Economics (EC312)
-* Economics (EC204)
+        ### Senior Graduate Teaching Assistant: 2021/2022 
+        * International Economics (EC312)
+        * Economics (EC204)
     </ul>
 </div>
 
 <style>
-    .expand-btn {
-        background-color: #4CAF50;
-        color: white;
-        padding: 10px;
-        font-size: 16px;
-        border: none;
+    .expandable-header {
+        font-size: 18px;
+        font-weight: bold;
+        color: #007BFF;
         cursor: pointer;
-        margin-top: 10px;
+        margin-bottom: 5px;
+        border-left: 4px solid #007BFF;
+        padding-left: 10px;
+        transition: color 0.3s ease;
     }
 
-    .expand-btn:focus {
-        outline: none;
+    .expandable-header:hover {
+        color: #0056b3;
     }
 
-    .expandable-content {
+    .expandable-section {
         display: none;
         margin-top: 10px;
         padding: 10px;
-        border-left: 4px solid #4CAF50;
         background-color: #f9f9f9;
+        border-left: 4px solid #007BFF;
+        transition: max-height 0.3s ease;
+        overflow: hidden;
+    }
+
+    .expandable-section.show {
+        display: block;
     }
 </style>
 
 <script>
-    function toggleContent() {
-        var content = document.getElementById("expandable-content");
-        if (content.style.display === "none" || content.style.display === "") {
-            content.style.display = "block";
-        } else {
-            content.style.display = "none";
-        }
-    }
+    document.addEventListener("DOMContentLoaded", function() {
+        var headers = document.querySelectorAll('.expandable-header');
+        headers.forEach(function(header) {
+            header.addEventListener('click', function() {
+                var section = header.nextElementSibling;
+                if (section.classList.contains('show')) {
+                    section.classList.remove('show');
+                } else {
+                    section.classList.add('show');
+                }
+            });
+        });
+    });
 </script>
