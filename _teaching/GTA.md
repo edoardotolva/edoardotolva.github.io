@@ -14,13 +14,13 @@ author_profile: true
 * Paper IV International Trade 
 -->
 <!-- First Expandable Section -->
- University of Warwick 
 <h3 class="expandable-header">
+    <span class="header-text"><b>University of Warwick: </b></span>
     <span class="line"></span>
     <span class="arrow">&#x25BC;</span>
 </h3>
 <div class="expandable-section">
- 2021/2022 <b>  Senior Graduate Teaching Assistant:</b>
+ <b>  Senior Graduate Teaching Assistant (2021/2022):</b> 
     <ul>
         <li>  International Economics (EC312) </li>
         <li>  Economics (EC204) </li>
@@ -28,13 +28,14 @@ author_profile: true
 </div>
 
 <!-- Second Expandable Section -->
-University of Cambridge
+
 <h3 class="expandable-header">
+ <span class="header-text">University of Cambridge: </span>
     <span class="line"></span>
     <span class="arrow">&#x25BC;</span>
 </h3>
 <div class="expandable-section">
-2020/2021  <b> Teaching Assistant for St John’s College:</b>
+<b> Teaching Assistant for St John’s College (2020/2021):</b>
     <ul>
         <li> Paper IV International Trade </li>
     </ul>
@@ -50,6 +51,12 @@ University of Cambridge
         transition: color 0.3s ease;
     }
 
+    .header-text {
+        font-size: 18px;
+        color: #333; /* Adjust this color to match your site's text color */
+        margin-right: 10px;
+    }
+ 
     .line {
         flex-grow: 1;
         height: 2px;
