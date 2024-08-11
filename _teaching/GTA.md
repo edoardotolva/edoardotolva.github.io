@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 title: "Teaching Experience"
 permalink: /teaching/
 author_profile: true
@@ -30,17 +30,28 @@ author_profile: true
 
 <style>
     .expandable-header {
-        font-size: 18px;
-        font-weight: bold;
-        color: #007BFF;
+        display: flex;
+        align-items: center;
         cursor: pointer;
         margin-bottom: 5px;
-        border-left: 4px solid #007BFF;
         padding-left: 10px;
         transition: color 0.3s ease;
     }
 
-    .expandable-header:hover {
+    .line {
+        flex-grow: 1;
+        height: 2px;
+        background-color: #007BFF;
+        margin-right: 10px;
+    }
+
+    .arrow {
+        font-size: 18px;
+        color: #007BFF;
+        transition: transform 0.3s ease;
+    }
+
+    .expandable-header:hover .arrow {
         color: #0056b3;
     }
 
@@ -57,6 +68,10 @@ author_profile: true
     .expandable-section.show {
         display: block;
     }
+
+    .expandable-header.show .arrow {
+        transform: rotate(180deg);
+    }
 </style>
 
 <script>
@@ -65,10 +80,13 @@ author_profile: true
         headers.forEach(function(header) {
             header.addEventListener('click', function() {
                 var section = header.nextElementSibling;
+                var arrow = header.querySelector('.arrow');
                 if (section.classList.contains('show')) {
                     section.classList.remove('show');
+                    header.classList.remove('show');
                 } else {
                     section.classList.add('show');
+                    header.classList.add('show');
                 }
             });
         });
