@@ -5,20 +5,22 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## University of Warwick 
-### Senior Graduate Teaching Assistant: 2021/2022 
+
+<!--### Senior Graduate Teaching Assistant: 2021/2022 
 * International Economics (EC312)
-* Economics (EC204)
+* Economics (EC204) -->
 
 <!--
 ## University of Cambridge 
 ### Teaching Assistant for St John’s College: 2020/2021
 * Paper IV International Trade 
 -->
-
-<h3 class="expandable-header">University of Warwick</h3>
+ ## University of Warwick 
+<h3 class="expandable-header">
+    <span class="line"></span>
+    <span class="arrow">&#x25BC;</span>
+</h3>
 <div class="expandable-section">
-    <p>Here you can provide detailed information about your work at the University of Warwick. This content will be hidden by default and shown when the header is clicked.</p>
     <ul>
         ### Senior Graduate Teaching Assistant: 2021/2022 
         * International Economics (EC312)
