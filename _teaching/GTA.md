@@ -15,16 +15,28 @@ author_profile: true
 ### Teaching Assistant for St John’s College: 2020/2021
 * Paper IV International Trade 
 -->
-## University of Warwick 
+ University of Warwick 
 <h3 class="expandable-header">
     <span class="line"></span>
     <span class="arrow">&#x25BC;</span>
 </h3>
 <div class="expandable-section">
-  Senior Graduate Teaching Assistant: 2021/2022 
+ 2021/2022 <b>  Senior Graduate Teaching Assistant:<b>
     <ul>
-        <li> International Economics (EC312) </li>
-        <li> Economics (EC204) </li>
+        <li>  International Economics (EC312) </li>
+        <li>  Economics (EC204) </li>
+    </ul>
+</div>
+
+University of Cambridge
+<h3 class="expandable-header">
+    <span class="line"></span>
+    <span class="arrow">&#x25BC;</span>
+</h3>
+<div class="expandable-section">
+2020/2021  <b> Teaching Assistant for St John’s College:<b>
+    <ul>
+        <li> Paper IV International Trade </li>
     </ul>
 </div>
 
