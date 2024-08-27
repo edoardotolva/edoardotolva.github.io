@@ -42,8 +42,7 @@ transport costs. However, the study also highlights potential negative implicati
 carbon footprint of international trade. Relative to a no-substitution scenario, higher maritime
 transport costs lead to a six percent increase in carbon emissions due to substitution
 toward more carbon-intensive air transport. 
-
-<i>Draft coming soon</i>
+<b><i>Draft coming soon</i></b>
 </div>
 
 <style>
@@ -91,7 +90,7 @@ toward more carbon-intensive air transport.
     margin-top: 10px;
     padding: 10px;
     background-color: #fef8f8;
-  font-size: 12px;
+  font-size: 14px;
     # border-left: 4px solid #007BFF;
     transition: max-height 0.3s ease;
     overflow: hidden;
