@@ -9,5 +9,13 @@ redirect_from:
 ---
 
 <div style="text-align: justify;">
-I am a Phd candidate at the <b>University of Warwick</b>. My research interests focus on <b>International Trade</b>, <b>Enviromental Economics</b>, and <b>Urban Economics</b>. In particular, I am interested in studying how transportation shapes economic activities across countries. I have also been an academic visitor at the Bank of England from September 2022 to July 2024. 
+I am a Phd candidate at the <b>University of Warwick</b>. My research interests focus on <b>International Trade</b>, <b>Enviromental Economics</b>, and <b>Urban Economics</b>. In particular, I am interested in studying how transportation shapes economic activities across countries. 
 </div>
+
+I have also been an academic visitor at the <b>Bank of England<\b> from September 2022 to July 2024.  
+
+<b> I will be on the Job Market in 2024-2025. <\b> 
+
+
+
+
