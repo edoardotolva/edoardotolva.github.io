@@ -51,7 +51,7 @@ toward more carbon-intensive air transport.
     flex-direction: column;
     cursor: pointer;
     margin-bottom: 10px;
-    padding-left: 10px;
+    #padding-left: 10px;
     transition: color 0.3s ease;
 }
 
