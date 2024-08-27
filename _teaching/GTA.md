@@ -13,7 +13,7 @@ author_profile: true
 ### Teaching Assistant for St John’s College: 2020/2021
 * Paper IV International Trade 
 -->
-I have teached in several course at the master and bachelor level in topics related to international trade and macroeconomics. 
+I have taught several courses at the master’s and bachelor’s levels on topics related to international trade and macroeconomics.
 
 <!-- First Expandable Section -->
 <h3 class="expandable-header">
