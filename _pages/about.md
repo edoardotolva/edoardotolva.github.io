@@ -16,10 +16,9 @@ I have also been an academic visitor at the <b>Bank of England</b> from Septembe
 
 <b> I will be on the Job Market in 2024-2025. </b> 
 
-# <b> Job market Paper: </b> *(Draft coming soon)*
 <h3 class="expandable-header">
-    <span class="header-text">OneWay or Another: Modes of Transport and
-International Trade </span>
+    <span class="header-text"> <b> Job market Paper: </b> OneWay or Another: Modes of Transport and
+International Trade *(Draft coming soon)*</span>
     <span class="line"></span> 
     <span class="arrow">&#x25BC;</span>
 </h3>
@@ -63,13 +62,13 @@ toward more carbon-intensive air transport.
     .line {
         flex-grow: 1;
         height: 2px;
-        background-color:  #333;
+        background-color:  $dark-gray;
         margin-right: 10px;
     }
 
     .arrow {
         font-size: 20px;
-        color:  #333;
+        color:  $dark-gray;
         transition: transform 0.3s ease;
     }
 
@@ -81,7 +80,7 @@ toward more carbon-intensive air transport.
         display: none;
         margin-top: 10px;
         padding: 10px;
-        background-color: #f9f9f9;
+        background-color: #fef8f8;
         # border-left: 4px solid #007BFF;
         transition: max-height 0.3s ease;
         overflow: hidden;
