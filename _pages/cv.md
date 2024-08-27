@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-You can find my cv <a href="https://edoardotolva.github.io/files/tolva_CV.pdf">here</a> or below: 
+If you can't view the preview, you can find my cv <a href="https://edoardotolva.github.io/files/tolva_CV.pdf">here</a>
 
-<iframe src=https://edoardotolva.github.io/files/tolva_CV.pdf>
+<iframe src="https://edoardotolva.github.io/files/tolva_CV.pdf">
 </iframe>
 
 
