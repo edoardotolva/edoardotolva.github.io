@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Edoardo Tolva"
   avatar           : "profile_2.jpg"
-  bio              : " <em>Phd student in economics at the University of Warwick. Academic visitor at the Bank of England</em>"
+  bio              : " <em>Phd student in economics at the University of Warwick.</em>" # Academic visitor at the Bank of England
   location         : "United Kingdom"
   employer         : "University of Warwick"
   pubmed           : 
