@@ -62,13 +62,13 @@ toward more carbon-intensive air transport.
     .line {
         flex-grow: 1;
         height: 2px;
-        background-color:  $dark-gray;
+        background-color: #333; /* Replace $dark-gray with a valid color */
         margin-right: 10px;
     }
 
     .arrow {
         font-size: 20px;
-        color:  $dark-gray;
+        color: #333; /* Replace $dark-gray with a valid color */
         transition: transform 0.3s ease;
     }
 
@@ -81,7 +81,7 @@ toward more carbon-intensive air transport.
         margin-top: 10px;
         padding: 10px;
         background-color: #fef8f8;
-        # border-left: 4px solid #007BFF;
+        border-left: 4px solid #007BFF; /* Uncommented and corrected */
         transition: max-height 0.3s ease;
         overflow: hidden;
     }
@@ -113,6 +113,7 @@ toward more carbon-intensive air transport.
         });
     });
 </script>
+
 
 
 
