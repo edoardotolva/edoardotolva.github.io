@@ -33,7 +33,7 @@ I have taught several courses at the master’s and bachelor’s levels on topic
 
 <!-- Second Expandable Section -->
 <h3 class="expandable-header">
-    <span class="header-text"> University of Camdridge </span>
+    <span class="header-text"> University of Cambridge </span>
     <span class="line-container">
         <span class="line"></span>
         <span class="arrow">&#x25BC;</span>
