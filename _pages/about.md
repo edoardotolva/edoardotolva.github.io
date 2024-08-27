@@ -17,10 +17,11 @@ I have also been an academic visitor at the <b>Bank of England</b> from Septembe
 <b> I will be on the Job Market in 2024-2025. </b> 
 
 <h3 class="expandable-header">
-    <span class="header-text"> <b> Job market Paper: </b> OneWay or Another: Modes of Transport and
-International Trade *(Draft coming soon)*</span>
-    <span class="line"></span> 
-    <span class="arrow">&#x25BC;</span>
+    <span class="header-text"><b>Job Market Paper:</b> One Way or Another: Modes of Transport and International Trade <i>(Draft coming soon)</i></span>
+    <span class="line-container">
+        <span class="line"></span>
+        <span class="arrow">&#x25BC;</span>
+    </span>
 </h3>
 <div style="text-align: justify;" class="expandable-section">
 The transportation sector is the backbone of international trade and has faced multiple disruptions
@@ -45,54 +46,61 @@ toward more carbon-intensive air transport.
 
 <style>
     .expandable-header {
-        display: flex;
-        align-items: center;
-        cursor: pointer;
-        margin-bottom: 5px;
-        padding-left: 10px;
-        transition: color 0.3s ease;
-    }
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    transition: color 0.3s ease;
+}
 
-    .header-text {
-        font-size: 20px;
-        color: #333; /* Adjust this color to match your site's text color */
-        margin-right: 10px;
-    }
- 
-    .line {
-        flex-grow: 1;
-        height: 2px;
-        background-color: #333; /* Replace $dark-gray with a valid color */
-        margin-right: 10px;
-    }
+.header-text {
+    font-size: 20px;
+    color: $dark-gray; /* Adjust this color to match your site's text color */
+    margin-bottom: 5px;
+}
 
-    .arrow {
-        font-size: 20px;
-        color: #333; /* Replace $dark-gray with a valid color */
-        transition: transform 0.3s ease;
-    }
+.line-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
 
-    .expandable-header:hover .arrow {
-        color: #0056b3;
-    }
+.line {
+    flex-grow: 1;
+    height: 2px;
+    background-color: $dark-gray; /* Adjust color as needed */
+    margin-right: 10px;
+}
 
-    .expandable-section {
-        display: none;
-        margin-top: 10px;
-        padding: 10px;
-        background-color: #fef8f8;
-        border-left: 4px solid #007BFF; /* Uncommented and corrected */
-        transition: max-height 0.3s ease;
-        overflow: hidden;
-    }
+.arrow {
+    font-size: 20px;
+    color: $dark-gray; /* Adjust color as needed */
+    transition: transform 0.3s ease;
+}
 
-    .expandable-section.show {
-        display: block;
-    }
+.expandable-header:hover .arrow {
+    color: #0056b3;
+}
 
-    .expandable-header.show .arrow {
-        transform: rotate(180deg);
-    }
+.expandable-section {
+    display: none;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #fef8f8;
+    border-left: 4px solid #007BFF;
+    transition: max-height 0.3s ease;
+    overflow: hidden;
+}
+
+.expandable-section.show {
+    display: block;
+}
+
+.expandable-header.show .arrow {
+    transform: rotate(180deg);
+}
 </style>
 
 <script>
