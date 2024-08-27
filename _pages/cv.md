@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can find my cv <a href="https://www.dropbox.com/scl/fi/pwyl4djl6ck859ci71saw/tolva_CV.pdf?rlkey=vhp32q9lri73zhjies8u1p956&st=n4dm7dxt&dl=0">here</a>
+You can find my cv <a href="https://github.com/edoardotolva/edoardotolva.github.io/blob/55809f4fe73860c27109e5b1411fc8097ebed2e9/files/tolva_CV.pdf">here</a> or below: 
 
-<iframe src="https://www.dropbox.com/scl/fi/pwyl4djl6ck859ci71saw/tolva_CV.pdf?rlkey=vhp32q9lri73zhjies8u1p956&st=n4dm7dxt&raw=1" width="100%" height="600px">
+<iframe src=https://github.com/edoardotolva/edoardotolva.github.io/blob/55809f4fe73860c27109e5b1411fc8097ebed2e9/files/tolva_CV.pdf>
 </iframe>
