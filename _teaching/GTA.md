@@ -13,11 +13,15 @@ author_profile: true
 ### Teaching Assistant for St John’s College: 2020/2021
 * Paper IV International Trade 
 -->
+I have teached in several course at the master and bachelor level in topics related to international trade and macroeconomics. 
+
 <!-- First Expandable Section -->
 <h3 class="expandable-header">
-    <span class="header-text"><b>University of Warwick </b></span>
-    <!--<span class="line"></span> -->
-    <span class="arrow">&#x25BC;</span>
+    <span class="header-text"> University of Warwick </span>
+    <span class="line-container">
+        <span class="line"></span>
+        <span class="arrow">&#x25BC;</span>
+    </span>
 </h3>
 <div class="expandable-section">
  <b>  Senior Graduate Teaching Assistant (2021/2022):</b> 
@@ -28,11 +32,12 @@ author_profile: true
 </div>
 
 <!-- Second Expandable Section -->
-
 <h3 class="expandable-header">
- <span class="header-text">University of Cambridge </span>
-    <!--<span class="line"></span> -->
-    <span class="arrow">&#x25BC;</span>
+    <span class="header-text"> University of Camdridge </span>
+    <span class="line-container">
+        <span class="line"></span>
+        <span class="arrow">&#x25BC;</span>
+    </span>
 </h3>
 <div class="expandable-section">
 <b> Teaching Assistant for St John’s College (2020/2021):</b>
@@ -43,54 +48,62 @@ author_profile: true
 
 <style>
     .expandable-header {
-        display: flex;
-        align-items: center;
-        cursor: pointer;
-        margin-bottom: 5px;
-        padding-left: 10px;
-        transition: color 0.3s ease;
-    }
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+    margin-bottom: 10px;
+    #padding-left: 10px; /*eliminate indent to the left*/
+    transition: color 0.3s ease;
+}
 
-    .header-text {
-        font-size: 28px;
-        color: #333; /* Adjust this color to match your site's text color */
-        margin-right: 10px;
-    }
- 
-    .line {
-        flex-grow: 1;
-        height: 2px;
-        background-color:  #333;
-        margin-right: 10px;
-    }
+.header-text {
+    font-size: 20px;
+    color: $dark-gray; /* Adjust this color to match your site's text color */
+    margin-bottom: 5px;
+}
 
-    .arrow {
-        font-size: 28px;
-        color:  #333;
-        transition: transform 0.3s ease;
-    }
+.line-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
 
-    .expandable-header:hover .arrow {
-        color: #0056b3;
-    }
+.line {
+    flex-grow: 1;
+    height: 2px;
+    background-color: #333; /* Adjust color as needed */
+    margin-right: 10px;
+}
 
-    .expandable-section {
-        display: none;
-        margin-top: 10px;
-        padding: 10px;
-        background-color: #f9f9f9;
-        # border-left: 4px solid #007BFF;
-        transition: max-height 0.3s ease;
-        overflow: hidden;
-    }
+.arrow {
+    font-size: 16px;
+    color:#333; /* Adjust color as needed */
+    transition: transform 0.3s ease;
+}
 
-    .expandable-section.show {
-        display: block;
-    }
+.expandable-header:hover .arrow {
+    color: #0056b3;
+}
 
-    .expandable-header.show .arrow {
-        transform: rotate(180deg);
-    }
+.expandable-section {
+    display: none;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #fef8f8;
+  font-size: 18px;
+    # border-left: 4px solid #007BFF;
+    transition: max-height 0.3s ease;
+    overflow: hidden;
+}
+
+.expandable-section.show {
+    display: block;
+}
+
+.expandable-header.show .arrow {
+    transform: rotate(180deg);
+}
 </style>
 
 <script>
@@ -111,3 +124,4 @@ author_profile: true
         });
     });
 </script>
+
