@@ -16,9 +16,10 @@ I have also been an academic visitor at the <b>Bank of England</b> from Septembe
 
 <b> I will be on the Job Market in 2024-2025. </b> 
 
-## <b>Job Market Paper:</b>
+[## <b>Job Market Paper:</b>//]
+
 <h3 class="expandable-header">
-    <span class="header-text"> One Way or Another: Modes of Transport and International Trade <i>(Draft coming soon)</i></span>
+    <span class="header-text"> JMP: One Way or Another: Modes of Transport and International Trade <i>(Draft coming soon)</i></span>
     <span class="line-container">
         <span class="line"></span>
         <span class="arrow">&#x25BC;</span>
@@ -56,7 +57,7 @@ toward more carbon-intensive air transport.
 }
 
 .header-text {
-    font-size: 16px;
+    font-size: 18px;
     color: $dark-gray; /* Adjust this color to match your site's text color */
     margin-bottom: 5px;
 }
