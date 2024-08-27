@@ -70,13 +70,13 @@ toward more carbon-intensive air transport.
 .line {
     flex-grow: 1;
     height: 2px;
-    background-color: $dark-gray; /* Adjust color as needed */
+    background-color: #333; /* Adjust color as needed */
     margin-right: 10px;
 }
 
 .arrow {
     font-size: 20px;
-    color: $dark-gray; /* Adjust color as needed */
+    color:#333; /* Adjust color as needed */
     transition: transform 0.3s ease;
 }
 
@@ -89,7 +89,7 @@ toward more carbon-intensive air transport.
     margin-top: 10px;
     padding: 10px;
     background-color: #fef8f8;
-    border-left: 4px solid #007BFF;
+    # border-left: 4px solid #007BFF;
     transition: max-height 0.3s ease;
     overflow: hidden;
 }
