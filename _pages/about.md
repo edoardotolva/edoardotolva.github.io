@@ -51,7 +51,7 @@ toward more carbon-intensive air transport.
     flex-direction: column;
     cursor: pointer;
     margin-bottom: 10px;
-    #padding-left: 10px;
+    #padding-left: 10px; /*eliminate indent to the left*/
     transition: color 0.3s ease;
 }
 
@@ -90,6 +90,7 @@ toward more carbon-intensive air transport.
     margin-top: 10px;
     padding: 10px;
     background-color: #fef8f8;
+  font-size: 12px;
     # border-left: 4px solid #007BFF;
     transition: max-height 0.3s ease;
     overflow: hidden;
