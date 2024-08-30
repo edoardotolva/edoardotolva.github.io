@@ -17,7 +17,7 @@ I have also been an academic visitor at the <b>Bank of England</b> from Septembe
 <b> I will be on the Job Market in 2024-2025. </b> 
 
 <h3 class="expandable-header">
-    <span class="header-text"> JMP: One Way or Another: Modes of Transport and International Trade </span>
+    <span class="header-text">One Way or Another: Modes of Transport and International Trade (JMP) </span>
     <span class="line-container">
         <span class="line"></span>
         <span class="arrow">&#x25BC;</span>
