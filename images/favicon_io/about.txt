@@ -1,6 +1,0 @@
-This favicon was generated using the following font:
-
-- Font Title: Noto Serif JP
-- Font Author: (c) 2017-2023 Adobe (http://www.adobe.com/).
-- Font Source: https://fonts.gstatic.com/s/notoserifjp/v29/xn71YHs72GKoTvER4Gn3b5eMRtWGkp6o7MjQ2bxvOubAILO5wBCU.ttf
-- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
