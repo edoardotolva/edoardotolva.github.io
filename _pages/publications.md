@@ -20,10 +20,10 @@ The transportation sector is the backbone of international trade and has faced m
 
 Work in Progress
 -----
-* Oligopolies in Trade and Transportation: Implications for Gains from Trade *(Draft coming soon)*, with <a href="https://www.enricocristoforoni.com/" style="text-decoration: none" target="_blank">E. Cristoforoni</a>, <a href="https://www.marcoerrico.net/home-page" style="text-decoration: none" target="_blank">M. Errico</a>, and Federico Rodari
+<!-- * Oligopolies in Trade and Transportation: Implications for Gains from Trade *(Draft coming soon)*, with <a href="https://www.enricocristoforoni.com/" style="text-decoration: none" target="_blank">E. Cristoforoni</a>, <a href="https://www.marcoerrico.net/home-page" style="text-decoration: none" target="_blank">M. Errico</a>, and Federico Rodari -->
 
 <h2 class="expandable-header">
-    <span class="header-text">Oligopolies in Trade and Transportation: Implications for Gains from Trade, , with <a href="https://www.enricocristoforoni.com/" style="text-decoration: none" target="_blank">E. Cristoforoni</a>, <a href="https://www.marcoerrico.net/home-page" style="text-decoration: none" target="_blank">M. Errico</a>, and Federico Rodari</span>
+    <span class="header-text">Oligopolies in Trade and Transportation: Implications for Gains from Trade, with <a href="https://www.enricocristoforoni.com/" style="text-decoration: none" target="_blank">E. Cristoforoni</a>, <a href="https://www.marcoerrico.net/home-page" style="text-decoration: none" target="_blank">M. Errico</a>, and Federico Rodari</span>
     <span class="line-container">
         <span class="line"></span>
         <span class="arrow">&#x25BC;</span>
