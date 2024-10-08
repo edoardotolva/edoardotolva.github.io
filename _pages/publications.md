@@ -43,7 +43,7 @@ bilateral bargaining framework into a quantitative trade model of importing. We 
 <!--* Brexit and Goods Trade: A trending topic *(Draft coming soon)*, with  <a href="https://www.bankofengland.co.uk/research/Researchers/john-lewis" style="text-decoration: none" target="_blank">J. Lewis</a> -->
 
 <h4 class="expandable-header">
-    <span class="header-text">Brexit and Goods Trade: A trending topic, with  <a href="https://www.bankofengland.co.uk/research/Researchers/john-lewis" style="text-decoration: none" target="_blank">J. Lewis
+    <span class="header-text">Brexit and Goods Trade: A trending topic, with  <a href="https://www.bankofengland.co.uk/research/Researchers/john-lewis" style="text-decoration: none" target="_blank">J. Lewis</span>
     <span class="line-container">
         <span class="line"></span>
         <span class="arrow">&#x25BC;</span>
@@ -54,6 +54,7 @@ bilateral bargaining framework into a quantitative trade model of importing. We 
     
 <b>Presented at:</b> <i>   </i>     
 </div>
+
 
 Work in Progress
 -----
