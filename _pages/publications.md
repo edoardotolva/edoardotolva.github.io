@@ -58,7 +58,7 @@ Policy Work
 }
 
 .header-text {
-    font-size: 18px;
+    font-size: 12px;
     color: $dark-gray; /* Adjust this color to match your site's text color */
     margin-bottom: 5px;
 }
