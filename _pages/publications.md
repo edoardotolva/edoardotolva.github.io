@@ -49,8 +49,7 @@ bilateral bargaining framework into a quantitative trade model of importing. We 
     </span>
 </h4>
 <div style="text-align: justify;" class="expandable-section">
-<b><i> Draft coming soon </i></b> <\br>     
-
+<b><i> Draft coming soon </i></b> <br>     
 <b>Presented at:</b> <i> ASSA meeting 2024 </i>        
 </div>
 
