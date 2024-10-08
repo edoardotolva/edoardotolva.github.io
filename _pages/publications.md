@@ -8,7 +8,7 @@ author_profile: true
 Job Market Paper 
 -----
 <h2 class="expandable-header">
-    <span class="header-text">One Way or Another: Modes of Transport and International Trade *(Draft coming soon)* </span>
+    <span class="header-text">One Way or Another: Modes of Transport and International Trade <i>(Draft coming soon)</i> </span>
     <span class="line-container">
         <span class="line"></span>
         <span class="arrow">&#x25BC;</span>
@@ -16,7 +16,6 @@ Job Market Paper
 </h2>
 <div style="text-align: justify;" class="expandable-section">
 The transportation sector is the backbone of international trade and has faced multiple disruptions in recent years. I study the substitutability of different transport modes (such as air and ocean shipping) and how mode-specific trade cost shocks affect international trade flows. First, I use the closure of Ukrainian-Russian airspace as an exogenous increase in air transport costs to provide novel estimates of the elasticity of substitution between transport modes. Second, to quantify the importance of this new margin of adjustment in equilibrium, I build a Ricardian model of international trade with multiple transport modes. Higher trade costs on a particular route are endogenously mitigated by a switch to relatively cheaper transport modes, thereby reducing the impact of the shock. I also introduce congestion forces that limit the ability to substitute. Finally, I apply this framework to evaluate the consequences of three distinct transport cost shocks: the closure of Ukrainian-Russian airspace, the closure of the Suez Canal, and a policy aimed at reducing the carbon footprint of ocean shipping, effectively increasing maritime transport costs. I find that transport mode substitution plays a significant role in mitigating welfare losses arising from increased transport costs. However, substitutability also implies potential negative consequences for the carbon footprint of international trade. Relative to a no-substitution scenario, higher maritime transport costs lead to an increase in carbon emissions due to substitution toward more carbon-intensive air transport. 
-<b><i>Draft coming soon</i></b> 
 </div>
 
 Work in Progress
