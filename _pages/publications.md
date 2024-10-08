@@ -35,9 +35,8 @@ of market power. We study the interplay between oligopoly in the transportation 
 data from Chilean customs to document several empirical facts: (i) market concentration in the transportation sector and among importers, and (ii) that transportation prices
 are highly dispersed and are the outcome of bilateral negotiations. We then develop a trade model that departs from the usual iceberg cost assumption and allows for two-sided
 market power in the transportation industry. We find that transport carriers charge large markups, but importers benefit from substantial bargaining power. Finally, we embed the
-bilateral bargaining framework into a quantitative trade model of importing. We show that market concentration reduces the pass-through of tariff shocks to gains from trade, and that the welfare implications of trade liberalization are different when accounting for the strategic interaction between the transportation sector and importers. <b><i> Draft coming soon </i></b>              
-
-<b>Presented at:</b> <i> Midwest Trade Conference [^1]: Footnotes are a way to provide additional information without cluttering the main text. </i>      
+bilateral bargaining framework into a quantitative trade model of importing. We show that market concentration reduces the pass-through of tariff shocks to gains from trade, and that the welfare implications of trade liberalization are different when accounting for the strategic interaction between the transportation sector and importers. <b><i> Draft coming soon </i></b>    
+    <b>Presented at:</b> <i> Midwest Trade Conference</i>      
 </div>
 
 <!--* Brexit and Goods Trade: A trending topic *(Draft coming soon)*, with  <a href="https://www.bankofengland.co.uk/research/Researchers/john-lewis" style="text-decoration: none" target="_blank">J. Lewis</a> -->
