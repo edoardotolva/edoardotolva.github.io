@@ -37,10 +37,13 @@ are highly dispersed and are the outcome of bilateral negotiations. We then deve
 market power in the transportation industry. We find that transport carriers charge large markups, but importers benefit from substantial bargaining power. Finally, we embed the
 bilateral bargaining framework into a quantitative trade model of importing. We show that market concentration reduces the pass-through of tariff shocks to gains from trade, and that the welfare implications of trade liberalization are different when accounting for the strategic interaction between the transportation sector and importers. <b><i> Draft coming soon </i></b> <br>
     
-<b>Presented at:</b> <i> Midwest Trade Conference </i>  [^1] 
+<b>Presented at:</b> <i> Midwest Trade Conference </i> <sup id="fnref1"><a href="#fn1">1</a></sup>
+
+<div id="fn1">
+  <p>The paper was presented by a coauthor. <a href="#fnref1">↩</a></p>
+</div> 
 </div>
 
-[^1]: presented by coauthor. 
 <!--* Brexit and Goods Trade: A trending topic *(Draft coming soon)*, with  <a href="https://www.bankofengland.co.uk/research/Researchers/john-lewis" style="text-decoration: none" target="_blank">J. Lewis</a> -->
 
 <h4 class="expandable-header">
