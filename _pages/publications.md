@@ -37,10 +37,10 @@ are highly dispersed and are the outcome of bilateral negotiations. We then deve
 market power in the transportation industry. We find that transport carriers charge large markups, but importers benefit from substantial bargaining power. Finally, we embed the
 bilateral bargaining framework into a quantitative trade model of importing. We show that market concentration reduces the pass-through of tariff shocks to gains from trade, and that the welfare implications of trade liberalization are different when accounting for the strategic interaction between the transportation sector and importers. <b><i> Draft coming soon </i></b> <br>
     
-<b>Presented at:</b> <i> Midwest Trade Conference </i> <sup id="fnref1"><a href="#fn1">1</a></sup>
+<b>Presented at:</b> <i> Midwest Trade Conference<sup>*</sup>, Naples Trade and Development Workshop<sup>*</sup>  </i>
 
-<div id="fn1">
-  <p>The paper was presented by a coauthor. <a href="#fnref1">↩</a></p>
+<div>
+  <p>*by coauthor.
 </div> 
 </div>
 
@@ -56,8 +56,11 @@ bilateral bargaining framework into a quantitative trade model of importing. We 
 <div style="text-align: justify;" class="expandable-section">
 <b><i> Draft coming soon </i></b> <br>     
     
-<b>Presented at:</b> <i> ASSA meeting 2024, ECONOMICS OF GLOBAL INTERACTIONS: NEW PERSPECTIVES ON TRADE, FACTOR
-MOBILITY AND DEVELOPMENT, ETSG 2024 </i>        
+<b>Presented at:</b> <i> ASSA meeting 2024<sup>*</sup>, Economics of Global Ineraction 2023<sup>*</sup>, ETSG 2024<sup>*</sup> </i>   
+
+<div>
+  <p>*by coauthor.
+</div> 
 </div>
 
 
