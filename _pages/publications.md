@@ -37,8 +37,8 @@ are highly dispersed and are the outcome of bilateral negotiations. We then deve
 market power in the transportation industry. We find that transport carriers charge large markups, but importers benefit from substantial bargaining power. Finally, we embed the
 bilateral bargaining framework into a quantitative trade model of importing. We show that market concentration reduces the pass-through of tariff shocks to gains from trade, and that the welfare implications of trade liberalization are different when accounting for the strategic interaction between the transportation sector and importers. <b><i> Draft coming soon </i></b> <br>
     
-<b>Presented at:</b> <i> Midwest Trade Conference<sup>*</sup>, Naples Trade and Development Workshop<sup>*</sup>  </i>
-<p>*by coauthor.
+<b>Presented at:</b> <i> Midwest Trade Conference<sup>*</sup>, Naples Trade and Development Workshop<sup>*</sup>  </i> <br> 
+*by coauthor.
 </div>
 
 <!--* Brexit and Goods Trade: A trending topic *(Draft coming soon)*, with  <a href="https://www.bankofengland.co.uk/research/Researchers/john-lewis" style="text-decoration: none" target="_blank">J. Lewis</a> -->
@@ -53,8 +53,8 @@ bilateral bargaining framework into a quantitative trade model of importing. We 
 <div style="text-align: justify;" class="expandable-section">
 <b><i> Draft coming soon </i></b> <br>     
     
-<b>Presented at:</b> <i> ASSA meeting 2024<sup>*</sup>, Economics of Global Ineraction 2023<sup>*</sup>, ETSG 2024<sup>*</sup> </i>   
-<p>*by coauthor.
+<b>Presented at:</b> <i> ASSA meeting 2024<sup>*</sup>, Economics of Global Ineraction 2023<sup>*</sup>, ETSG 2024<sup>*</sup> </i>   <br> 
+*by coauthor.
 </div>
 
 
