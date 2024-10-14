@@ -14,7 +14,11 @@ I am a Phd candidate at the <b>University of Warwick</b>. My research interests 
 
 I have been an academic visitor at the <b>Bank of England</b> from September 2022 to July 2024.  
 
-<b> I will be on the Job Market in 2024-2025. </b> 
+<b> I will be on the Job Market in 2024-2025. </b>  
+
+References: 
+<a href="https://warwick.ac.uk/fac/soc/economics/staff/dnovy/" style="text-decoration: none" target="_blank">Prof. Dennis Novy</a>, <a href="https://sites.google.com/site/msantamariaupf/home" style="text-decoration: none" target="_blank"> 
+Prof. Marta Santamaria</a>,  <a href="https://warwick.ac.uk/fac/soc/economics/staff/cperroni/" style="text-decoration: none" target="_blank">Prof. Carlo Perroni</a>,  <a href="https://sites.google.com/site/davidedelprete1986/" style="text-decoration: none" target="_blank">Prof. Davide Del Prete</a>
 
 <h3 class="expandable-header">
     <span class="header-text">One Way or Another: Modes of Transport and International Trade (JMP) </span>
