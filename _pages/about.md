@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div style="text-align: justify;">
-I am a Phd candidate at the <b>University of Warwick</b>. My research interests focus on <b>International Trade</b>, <b>Enviromental Economics</b>, and <b>Urban Economics</b>. In particular, I am interested in studying how transportation shapes economic activities across countries. 
+I am a PhD candidate at the <b>University of Warwick</b>. My research interests focus on <b>International Trade</b>, <b> Environmental Economics</b>, and <b>Urban Economics</b>. In particular, I am interested in studying how transportation shapes economic activity across countries. 
 </div>
 
 I have been an academic visitor at the <b>Bank of England</b> from September 2022 to July 2024.  
@@ -28,7 +28,7 @@ Prof. Marta Santamaria</a>,  <a href="https://warwick.ac.uk/fac/soc/economics/st
     </span>
 </h3>
 <div style="text-align: justify;" class="expandable-section">
-The transportation sector is the backbone of international trade and has faced multiple disruptions in recent years. I study the substitutability between different transport modes and how mode-specific trade cost shocks affect international trade flows. I use the closure of Russian airspace in 2022 as an exogenous change in transport costs to provide novel estimates of the elasticity of substitution between transport modes. To quantify the importance of this margin of adjustment in equilibrium, I develop a Ricardian model of international trade with multiple transport modes and substitution between them. However, endogenous congestion forces limit the ability to fully substitute. I apply this framework to quantify the effects of recent shocks to the transport sector, such as the closure of Russian airspace and the Suez Canal blockage. I find that transport mode substitution reduces welfare losses by 4% relative to a non-substitution scenario. However, substitution has potential negative consequences for the carbon footprint of international trade. Compared to a no-substitution scenario, higher maritime transport costs lead to increased carbon emissions due to substitution toward more carbon-intensive air transport.
+The transport sector is the backbone of international trade and has faced multiple disruptions in recent years. I study the substitutability between different transport modes and how mode-specific trade cost shocks affect international trade flows. I use the closure of Russian airspace in 2022 as an exogenous change in transport costs to provide novel estimates of the elasticity of substitution between transport modes. To quantify the importance of this margin of adjustment in equilibrium, I develop a Ricardian model of international trade with multiple transport modes. Modes are substitutable but substitutability is limited by endogenous congestion forces. I apply this framework to quantify the effects of recent trade cost shocks such as the closure of Russian airspace and the Suez Canal blockage. I find that transport mode substitution reduces welfare losses by 4\% relative to a non-substitution scenario. However, substitution has potentially negative consequences for the carbon footprint of international trade. Higher sea transport costs can lead to increased carbon emissions due to substitution toward more carbon-intensive air transport.
 <b><i>Draft coming soon</i></b> 
 </div>
 
