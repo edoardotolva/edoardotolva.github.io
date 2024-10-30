@@ -9,10 +9,9 @@ redirect_from:
 ---
 
 <div style="text-align: justify;">
-I am a PhD candidate at the <b>University of Warwick</b>. My research interests focus on <b>International Trade</b>, <b> Environmental Economics</b>, and <b>Urban Economics</b>. In particular, I am interested in studying how transportation shapes economic activity across countries. 
-</div> <br> 
+I am a PhD candidate at the <b>University of Warwick</b>. My research interests focus on <b>International Trade</b>, <b> Environmental Economics</b>, and <b>Urban Economics</b>. In particular, I am interested in studying how transportation shapes economic activity across countries. I have been an academic visitor at the <b>Bank of England</b> from September 2022 to July 2024. I also have been a research assistant at the <b>Centre for Economic Performance (CEP)</b> at LSE from September 2020 to May 2023. </div>  <br>
 
-I have been an academic visitor at the <b>Bank of England</b> from September 2022 to July 2024. I have been a research assistant at the <b>Centre for Economic Performance (CEP)</b> at LSE from September 2020 to March 2023. 
+
 
 <b> I will be on the Job Market in 2024-2025. </b>  
 
