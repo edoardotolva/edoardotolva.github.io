@@ -60,7 +60,7 @@ Transportation services are crucial for goods to move globally; however, given t
 
 Work in Progress
 -----
-* Sustainable Relationships: deforestation in the cocoa supply chain, with <a href="https://sites.google.com/site/davidedelprete1986/" style="text-decoration: none" target="_blank">D. Del Prete</a> and <a href="https://trase.earth/team/valentin-guye" style="text-decoration: none" target="_blank">V. Guye</a>
+* Sustainable Relationships: Deforestation in the Cocoa Supply Chain, with <a href="https://sites.google.com/site/davidedelprete1986/" style="text-decoration: none" target="_blank">D. Del Prete</a> and <a href="https://trase.earth/team/valentin-guye" style="text-decoration: none" target="_blank">V. Guye</a>
 * Endogenous Bilateral Trade Imbalances, with <a href="https://warwick.ac.uk/fac/soc/economics/staff/dnovy/" style="text-decoration: none" target="_blank">D. Novy</a>
 
 Policy Work
