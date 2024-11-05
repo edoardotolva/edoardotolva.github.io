@@ -20,7 +20,7 @@ References:
 Prof. Marta Santamaria</a>,  <a href="https://warwick.ac.uk/fac/soc/economics/staff/cperroni/" style="text-decoration: none" target="_blank">Prof. Carlo Perroni</a>,  <a href="https://sites.google.com/site/davidedelprete1986/" style="text-decoration: none" target="_blank">Prof. Davide Del Prete</a>
 
 <h3 class="expandable-header">
-    <span class="header-text">One Way or Another: Modes of Transport and International Trade (JMP) </span>
+    <span class="header-text"><a href="https://edoardotolva.github.io/files/edoardotolva-jmp.pdf">One Way or Another: Modes of Transport and International Trade</a> (JMP) </span>
     <span class="line-container">
         <span class="line"></span>
         <span class="arrow">&#x25BC;</span>
@@ -28,7 +28,6 @@ Prof. Marta Santamaria</a>,  <a href="https://warwick.ac.uk/fac/soc/economics/st
 </h3>
 <div style="text-align: justify;" class="expandable-section">
 The transport sector is the backbone of international trade and has faced multiple disruptions in recent years. I study the substitutability between different transport modes and how mode-specific trade cost shocks affect international trade flows. I use the closure of Russian airspace in 2022 as an exogenous change in transport costs to provide novel estimates of the elasticity of substitution between transport modes. To quantify the importance of this margin of adjustment in equilibrium, I develop a Ricardian model of international trade with multiple transport modes. Modes are substitutable but endogenous congestion forces limit substitutability. I apply this framework to quantify the effects of recent trade cost shocks such as the closure of Russian airspace and the Suez Canal blockage. Transport mode substitution reduces welfare losses by 4% relative to a non-substitution scenario. However, substitution has potentially negative consequences for the carbon footprint of international trade. Higher sea transport costs can lead to increased carbon emissions due to substitution toward more carbon-intensive air transport.
-You can find the draft <a href="https://edoardotolva.github.io/files/edoardotolva-jmp.pdf">here</a>
 </div>
 
 <style>
