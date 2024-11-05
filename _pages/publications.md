@@ -8,17 +8,18 @@ author_profile: true
 Job Market Paper 
 -----
 <h4 class="expandable-header">
-    <span class="header-text">One Way or Another: Modes of Transport and International Trade <i>(Draft coming soon)</i> </span>
+    <span class="header-text"><a href="https://edoardotolva.github.io/files/edoardotolva-jmp.pdf">One Way or Another: Modes of Transport and International Trade</a> </span>
     <span class="line-container">
         <span class="line"></span>
         <span class="arrow">&#x25BC;</span>
     </span>
 </h4>
 <div style="text-align: justify;" class="expandable-section">
-The transport sector is the backbone of international trade and has faced multiple disruptions in recent years. I study the substitutability between different transport modes and how mode-specific trade cost shocks affect international trade flows. I use the closure of Russian airspace in 2022 as an exogenous change in transport costs to provide novel estimates of the elasticity of substitution between transport modes. To quantify the importance of this margin of adjustment in equilibrium, I develop a Ricardian model of international trade with multiple transport modes. Modes are substitutable but substitutability is limited by endogenous congestion forces. I apply this framework to quantify the effects of recent trade cost shocks such as the closure of Russian airspace and the Suez Canal blockage. I find that transport mode substitution reduces welfare losses by 4\% relative to a non-substitution scenario. However, substitution has potentially negative consequences for the carbon footprint of international trade. Higher sea transport costs can lead to increased carbon emissions due to substitution toward more carbon-intensive air transport. <br> 
-
-<b>Presented at:</b> <i>ETSG, UEA European Meeting, GEP-CEPR Postgrad Conference, RIEF, EAYE, SETC, CEP/Warwick Junior Trade Workshop, Napoli Parthenope, Midwest Trade Conference<sup>*</sup>, Norwegian School of Economics<sup>*</sup>.  </i>  <br> 
-*forthcoming 
+The transport sector is the backbone of international trade and has faced multiple disruptions in recent years. I study the substitutability between different transport modes and how mode-specific trade cost shocks affect international trade flows. I use the closure of Russian airspace in 2022 as an exogenous change in transport costs to provide novel estimates of the elasticity of substitution between transport modes. To quantify the importance of this margin of adjustment in equilibrium, I develop a Ricardian model of international trade with multiple transport modes. Modes are substitutable but endogenous congestion forces limit substitutability. I apply this framework to quantify the effects of recent trade cost shocks such as the closure of Russian airspace and the Suez Canal blockage. Transport mode substitution reduces welfare losses by 4% relative to a non-substitution scenario. However, substitution has potentially negative consequences for the carbon footprint of international trade. Higher sea transport costs can lead to increased carbon emissions due to substitution toward more carbon-intensive air transport.
+<br> 
+<b>Presented at: </b> <i>ETSG, UEA European Meeting, GEP-CEPR Postgrad Conference, RIEF, EAYE, SETC, CEP/Warwick Junior Trade Workshop, Napoli Parthenope, Midwest Trade Conference, Norwegian School of Economics.  </i>  
+<br>    
+You can find the draft 
 </div>
 
 Working Papers
