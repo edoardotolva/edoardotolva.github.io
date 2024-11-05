@@ -19,7 +19,6 @@ The transport sector is the backbone of international trade and has faced multip
 <br> 
 <b>Presented at: </b> <i>ETSG, UEA European Meeting, GEP-CEPR Postgrad Conference, RIEF, EAYE, SETC, CEP/Warwick Junior Trade Workshop, Napoli Parthenope, Midwest Trade Conference, Norwegian School of Economics.  </i>  
 <br>    
-You can find the draft 
 </div>
 
 Working Papers
