@@ -37,10 +37,8 @@ Working Papers
 <div style="text-align: justify;" class="expandable-section">
 Transportation services are crucial for goods to move globally; however, given the concentration in the industry, the realized gains from trade are smaller due to the presence of market power. We study the interplay between oligopoly in the transportation industry and oligopsony power retained by non-atomistic importers. We leverage transaction-level data from Chilean customs to document several empirical facts: (i) market concentration in the transportation sector and among importers, and (ii) that transportation prices are highly dispersed and are the outcome of bilateral negotiations. We then develop a trade model that departs from the usual iceberg cost assumption and allows for two-sided market power in the transportation industry. We find that transport carriers charge large markups, but importers benefit from substantial bargaining power. Finally, we embed the bilateral bargaining framework into a quantitative trade model of importing. We show that market concentration reduces the pass-through of tariff shocks to gains from trade and that the welfare implications of trade liberalization are different when accounting for the strategic interaction between the transportation sector and importers. 
 <br>     
-<b>Presented at:</b> <i> Midwest Trade Conference<sup>*</sup>, Naples Trade and Development Workshop<sup>*</sup>.  </i> 
-<br>
-<br>
-   <i> Young Economist Award at 17th FIW International Economics Conference </i> 
+<b>Presented at:</b> <i> Midwest Trade Conference<sup>*</sup>, Naples Trade and Development Workshop<sup>*</sup>.  </i> <br>
+<b>Awards:</b> <i> Young Economist Award at 17th FIW International Economics Conference </i> 
 <br>
 *by coauthor.
 </div>
