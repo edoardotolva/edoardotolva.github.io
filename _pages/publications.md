@@ -17,7 +17,7 @@ Job Market Paper
 <div style="text-align: justify;" class="expandable-section">
 The transport sector is the backbone of international trade and has faced multiple disruptions in recent years. I study the substitutability between different transport modes and how mode-specific trade cost shocks affect international trade flows. I use the closure of Russian airspace in 2022 as an exogenous change in transport costs to provide novel estimates of the elasticity of substitution between transport modes. To quantify the importance of this margin of adjustment in equilibrium, I develop a Ricardian model of international trade with multiple transport modes. Modes are substitutable but endogenous congestion forces limit substitutability. I apply this framework to quantify the effects of recent trade cost shocks such as the closure of Russian airspace and the Suez Canal blockage. Transport mode substitution reduces welfare losses by 4% relative to a non-substitution scenario. However, substitution has potentially negative consequences for the carbon footprint of international trade. Higher sea transport costs can lead to increased carbon emissions due to substitution toward more carbon-intensive air transport.
 <br> 
-<b>Presented at: </b> <i>ETSG, UEA European Meeting, GEP-CEPR Postgrad Conference, RIEF, EAYE, SETC, CEP/Warwick Junior Trade Workshop, Napoli Parthenope, Midwest Trade Conference, Norwegian School of Economics.  </i>  
+<b>Presented at: </b> <i>ETSG, UEA European Meeting, GEP-CEPR Postgrad Conference, RIEF, EAYE, SETC, CEP/Warwick Junior Trade Workshop, Napoli Parthenope, Midwest Trade Conference, Norwegian School of Economics, World Bank Annual Conference on Transport Economics 2025.  </i>  
 <br>    
 </div>
 
@@ -37,7 +37,7 @@ Working Papers
 <div style="text-align: justify;" class="expandable-section">
 Transportation services are crucial for goods to move globally; however, given the concentration in the industry, the realized gains from trade are smaller due to the presence of market power. We study the interplay between oligopoly in the transportation industry and oligopsony power retained by non-atomistic importers. We leverage transaction-level data from Chilean customs to document several empirical facts: (i) market concentration in the transportation sector and among importers, and (ii) that transportation prices are highly dispersed and are the outcome of bilateral negotiations. We then develop a trade model that departs from the usual iceberg cost assumption and allows for two-sided market power in the transportation industry. We find that transport carriers charge large markups, but importers benefit from substantial bargaining power. Finally, we embed the bilateral bargaining framework into a quantitative trade model of importing. We show that market concentration reduces the pass-through of tariff shocks to gains from trade and that the welfare implications of trade liberalization are different when accounting for the strategic interaction between the transportation sector and importers. 
 <br>     
-<b>Presented at:</b> <i> Midwest Trade Conference<sup>*</sup>, Naples Trade and Development Workshop<sup>*</sup>.  </i> <br>
+<b>Presented at:</b> <i> Midwest Trade Conference<sup>*</sup>, Naples Trade and Development Workshop<sup>*</sup>, 17th FIW International Economics Conference, World Bank Annual Conference on Transport Economics 2025<sup>*</sup>.  </i> <br>
 <b>Awards:</b> <i> Young Economist Award at 17th FIW International Economics Conference </i> 
 <br>
 *by coauthor.
