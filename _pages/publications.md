@@ -36,8 +36,10 @@ Working Papers
 </h4>
 <div style="text-align: justify;" class="expandable-section">
 Transportation services are crucial for goods to move globally; however, given the concentration in the industry, the realized gains from trade are smaller due to the presence of market power. We study the interplay between oligopoly in the transportation industry and oligopsony power retained by non-atomistic importers. We leverage transaction-level data from Chilean customs to document several empirical facts: (i) market concentration in the transportation sector and among importers, and (ii) that transportation prices are highly dispersed and are the outcome of bilateral negotiations. We then develop a trade model that departs from the usual iceberg cost assumption and allows for two-sided market power in the transportation industry. We find that transport carriers charge large markups, but importers benefit from substantial bargaining power. Finally, we embed the bilateral bargaining framework into a quantitative trade model of importing. We show that market concentration reduces the pass-through of tariff shocks to gains from trade and that the welfare implications of trade liberalization are different when accounting for the strategic interaction between the transportation sector and importers. 
-    
-<b>Presented at:</b> <i> Midwest Trade Conference<sup>*</sup>, Naples Trade and Development Workshop<sup>*</sup>.  </i> <br> 
+
+<br>     
+<b>Presented at:</b> <i> Midwest Trade Conference<sup>*</sup>, Naples Trade and Development Workshop<sup>*</sup>.  </i> 
+<br> 
 *by coauthor.
 </div>
 
@@ -53,8 +55,9 @@ Transportation services are crucial for goods to move globally; however, given t
 <div style="text-align: justify;" class="expandable-section">
 We estimate the effect of the Brexit process on UK-EU goods trade flows using bilateral trade data for 50 countries at the HS2 product level. Under a variety of ways of de-trending the data, we find that the effect of the short-term effect of shifting from EU membership trading arrangements to those of the “Trade and Cooperation Agreement” resulted in a fall in UK-EU trade of 17-18%. Both are robust to differences in how the model accounts for trends. By contrast, the longer-run effect on UK-EU trade, comparing pre-referendum with post-TCA flows, is sensitive to whether and how trends are included. Splitting the results by product type, we find that the effects associated with TCA implementation work via consumer goods and intermediate goods, with no significant effect on capital goods. Splitting by trade elasticity, we find no apparent correlation between the effect on trade and the canonical estimates of the goods level trade elasticity of Fontagné et al. (2022).
    
-    
-<b>Presented at:</b> <i> ASSA meeting 2024<sup>*</sup>, Economics of Global Ineraction 2023<sup>*</sup>, ETSG 2024<sup>*</sup>. </i>   <br> 
+<br>    
+<b>Presented at:</b> <i> ASSA meeting 2024<sup>*</sup>, Economics of Global Ineraction 2023<sup>*</sup>, ETSG 2024<sup>*</sup>. </i>   
+<br> 
 *by coauthor.
 </div>
 
