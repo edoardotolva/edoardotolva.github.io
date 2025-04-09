@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 <div style="text-align: justify;">
-I am a PhD candidate at the <b>University of Warwick</b>. My research interests focus on <b>International Trade</b>, <b> Environmental Economics</b>, and <b>Urban Economics</b>. In particular, I am interested in studying how transportation shapes economic activity across countries. I have been an academic visitor at the <b>Bank of England</b> from September 2022 to July 2024. I also have been a research assistant at the <b>Centre for Economic Performance (CEP)</b> at LSE from September 2020 to May 2023. </div>  <br>
+I recently obtained my PhD in economics from the <b>University of Warwick</b>. In the Fall of 2025, I will join the <b>School of Economics and Management (ISEG) </b> at the University of Lisbon as an invited Assistant Professor of Economics.  <br><br>
 
-
-
-<b> I will be on the Job Market in 2024-2025. </b>  
+My research interests focus on <b>International Trade</b>, <b> Environmental Economics</b>, and <b>Urban Economics</b>. In particular, I am interested in studying how transportation shapes economic activity across countries.  <br>
+  
+I am currently an external consultant for the <b>Asian Development Bank</b>. I have been an academic visitor at the <b>Bank of England</b> from September 2022 to July 2024. I have also been a research assistant at the <b>Centre for Economic Performance (CEP)</b> at LSE from September 2020 to May 2023. </div> <br>
 
 References: 
 <a href="https://warwick.ac.uk/fac/soc/economics/staff/dnovy/" style="text-decoration: none" target="_blank">Prof. Dennis Novy</a>, <a href="https://sites.google.com/site/msantamariaupf/home" style="text-decoration: none" target="_blank"> 
