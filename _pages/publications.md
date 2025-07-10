@@ -46,14 +46,14 @@ We study how the interplay between oligopoly in the transportation industry and 
 <!--* Brexit and Goods Trade: A trending topic *(Draft coming soon)*, with  <a href="https://www.bankofengland.co.uk/research/Researchers/john-lewis" style="text-decoration: none" target="_blank">J. Lewis</a> -->
 
 <h4 class="expandable-header">
-    <span class="header-text"><a href="https://www.lse.ac.uk/CFM/assets/pdf/CFM-Discussion-Papers-2025/CFMDP2025-02-Paper.pdf">Brexit and Goods Trade: A trending topic</a>, with <a href="https://www.bankofengland.co.uk/research/Researchers/john-lewis" style="text-decoration: none" target="_blank">J. Lewis</a></span>
+    <span class="header-text"><a href="https://edoardotolva.github.io/files/brexit_paper_wp.pdf">Brexit and Goods Trade: A trending topic</a>, with <a href="https://www.bankofengland.co.uk/research/Researchers/john-lewis" style="text-decoration: none" target="_blank">J. Lewis</a></span>
     <span class="line-container">
         <span class="line"></span>
         <span class="arrow">&#x25BC;</span>
     </span>
 </h4>
 <div style="text-align: justify;" class="expandable-section">
-We estimate the effect of the Brexit process on UK-EU goods trade flows using bilateral trade data for 50 countries at the HS2 product level. Under a variety of ways of de-trending the data, we find that the effect of the short-term effect of shifting from EU membership trading arrangements to those of the “Trade and Cooperation Agreement” resulted in a fall in UK-EU trade of 17-18%. Both are robust to differences in how the model accounts for trends. By contrast, the longer-run effect on UK-EU trade, comparing pre-referendum with post-TCA flows, is sensitive to whether and how trends are included. Splitting the results by product type, we find that the effects associated with TCA implementation work via consumer goods and intermediate goods, with no significant effect on capital goods. Splitting by trade elasticity, we find no apparent correlation between the effect on trade and the canonical estimates of the goods level trade elasticity of Fontagné et al. (2022).   
+Brexit is a striking example of a potentially new era of trade disintegration. We estimate its effect on UK-EU goods trade using monthly bilateral trade data for 50 countries at the HS2 product level. Under various de-trending approaches, we find that the shift from EU membership arrangements to the Trade and Cooperation Agreement (TCA) in January 2021 caused a 17–18\% fall in UK-EU trade.  However, the longer-run effect, comparing pre-referendum with post-TCA trade, is sensitive to how trends are included, as estimates for the interim period between the referendum and Brexit vary substantially by trend choice. By product type, TCA implementation mainly reduced trade in consumer and intermediate goods, with no significant effect on capital goods. Further, we find no clear correlation between the trade effects and the goods-level trade elasticities reported by Fontagné et al. (2022).   
 <br>    
 <b>Presented at:</b> <i> ASSA meeting 2024<sup>*</sup>, Economics of Global Ineraction 2023<sup>*</sup>, ETSG 2024<sup>*</sup>, Midwest Trade Conference<sup>*</sup>. </i>   
 <br> 
@@ -65,7 +65,11 @@ We estimate the effect of the Brexit process on UK-EU goods trade flows using bi
 Work in Progress
 -----
 * Sustainable Relationships: Deforestation in the Cocoa Supply Chain, with <a href="https://sites.google.com/site/davidedelprete1986/" style="text-decoration: none" target="_blank">D. Del Prete</a> and <a href="https://trase.earth/team/valentin-guye" style="text-decoration: none" target="_blank">V. Guye</a>
-* Endogenous Bilateral Trade Imbalances, with <a href="https://warwick.ac.uk/fac/soc/economics/staff/dnovy/" style="text-decoration: none" target="_blank">D. Novy</a>
+<!--* Endogenous Bilateral Trade Imbalances, with <a href="https://warwick.ac.uk/fac/soc/economics/staff/dnovy/" style="text-decoration: none" target="_blank">D. Novy</a> -->
+
+<!-- 
+To add: ADB + translog
+-->
 
 Policy Work
 -----
