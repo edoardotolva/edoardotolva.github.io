@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Edoardo Tolva"
   avatar           : "profile_2.png"
-  bio              : " <em>PhD student in economics at the University of Warwick.</em>" # Academic visitor at the Bank of England
-  location         : "United Kingdom"
-  employer         : "University of Warwick"
+  bio              : " <em>Assistant Professor in Economics.</em>" # Academic visitor at the Bank of England
+  location         : "Lisbon"
+  employer         : "University of Lisbon ISEG"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=9XfZE1wAAAAJ&hl=it&oi=ao"
-  email            : "edoardo.tolva@warwick.ac.uk"
+  email            : "edoardo.tolva@iseg.ulisboa.pt"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
