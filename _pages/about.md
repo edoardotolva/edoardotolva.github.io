@@ -9,11 +9,16 @@ redirect_from:
 ---
 
 <div style="text-align: justify;">
-I recently obtained my PhD in economics from the <b>University of Warwick</b>. In the Fall of 2025, I will join the <b>School of Economics and Management (ISEG) </b> at the University of Lisbon as an invited Assistant Professor of Economics.  <br><br>
+I am an Invited Assistant Professor in Economics at the <b>School of Economics and Management (ISEG) </b> at the University of Lisbon.  <br><br> 
 
-My research interests focus on <b>International Trade</b>, <b> Environmental Economics</b>, and <b>Urban Economics</b>. In particular, I am interested in studying how transportation shapes economic activity across countries.  <br><br>
+My research interests focus on <b>International Trade</b>, and <b> Environmental Economics</b>. In particular, I am interested in studying how transportation shapes economic activity across countries.  <br><br> 
+
+I obtained my PhD in economics from the <b>University of Warwick</b> in February 2025.
   
-I am currently an external consultant for the <b>Asian Development Bank</b>. I have been an academic visitor at the <b>Bank of England</b> from September 2022 to July 2024. I have also been a research assistant at the <b>Centre for Economic Performance (CEP)</b> at LSE from September 2020 to May 2023. </div> <br>
+I occasionally work as an external consultant for the <b>World Bank</b> and the <b>Asian Development Bank</b>. I have been an academic visitor at the <b>Bank of England</b> from September 2022 to July 2024. </div> <br>
+
+<!--
+I am currently an external consultant for the <b>Asian Development Bank</b>. I have been an academic visitor at the <b>Bank of England</b> from September 2022 to July 2024. </div> <br>
 
 References: 
 <a href="https://warwick.ac.uk/fac/soc/economics/staff/dnovy/" style="text-decoration: none" target="_blank">Prof. Dennis Novy</a>, <a href="https://sites.google.com/site/msantamariaupf/home" style="text-decoration: none" target="_blank"> 
@@ -29,7 +34,7 @@ Prof. Marta Santamaria</a>,  <a href="https://warwick.ac.uk/fac/soc/economics/st
 <div style="text-align: justify;" class="expandable-section">
 The transport sector is the backbone of international trade and has faced multiple disruptions in recent years. I study the substitutability between different transport modes and how mode-specific trade cost shocks affect international trade flows. I use the closure of Russian airspace in 2022 as an exogenous change in transport costs to provide novel estimates of the elasticity of substitution between transport modes. To quantify the importance of this margin of adjustment in equilibrium, I develop a Ricardian model of international trade with multiple transport modes. Modes are substitutable but endogenous congestion forces limit substitutability. I apply this framework to quantify the effects of recent trade cost shocks such as the closure of Russian airspace and the Suez Canal blockage. Transport mode substitution reduces welfare losses by 4% relative to a non-substitution scenario. However, substitution has potentially negative consequences for the carbon footprint of international trade. Higher sea transport costs can lead to increased carbon emissions due to substitution toward more carbon-intensive air transport.
 </div>
-
+-->
 <style>
     .expandable-header {
     display: flex;
