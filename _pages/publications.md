@@ -60,9 +60,9 @@ Brexit is a striking example of a potentially new era of trade disintegration. W
 
 Work in Progress
 -----
-* Sustainable Relationships: Deforestation in the Cocoa Supply Chain, with <a href="https://sites.google.com/site/davidedelprete1986/" style="text-decoration: none" target="_blank">D. Del Prete</a> and <a href="https://trase.earth/team/valentin-guye" style="text-decoration: none" target="_blank">V. Guye</a>
+* Sustainable Relationships: Deforestation in the Cocoa Supply Chain (<i>draft coming soon</i>), with <a href="https://sites.google.com/site/davidedelprete1986/" style="text-decoration: none" target="_blank">D. Del Prete</a> and <a href="https://trase.earth/team/valentin-guye" style="text-decoration: none" target="_blank">V. Guye</a>
 
-* Buyer Market Power, Transport Mode, and Exchange Rate Shocks, with <a href="https://sites.google.com/site/davidedelprete1986/" style="text-decoration: none" target="_blank">D. Del Prete</a> and A. Rahman 
+* Buyer Market Power, Transport Mode, and Exchange Rate Shocks (<i>draft coming soon</i>), with <a href="https://sites.google.com/site/davidedelprete1986/" style="text-decoration: none" target="_blank">D. Del Prete</a> and A. Rahman 
 
 <!--* Endogenous Bilateral Trade Imbalances, with <a href="https://warwick.ac.uk/fac/soc/economics/staff/dnovy/" style="text-decoration: none" target="_blank">D. Novy</a> -->
 
