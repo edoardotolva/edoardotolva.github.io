@@ -13,7 +13,7 @@ I am an Invited Assistant Professor in Economics at the <b>School of Economics a
 
 My research interests focus on <b>International Trade</b>, and <b> Environmental Economics</b>. In particular, I am interested in studying how transportation shapes economic activity across countries.  <br><br> 
 
-I obtained my PhD in economics from the <b>University of Warwick</b> in February 2025.
+I obtained my PhD in economics from the <b>University of Warwick</b> in February 2025. <br><br> 
   
 I occasionally work as an external consultant for the <b>World Bank</b> and the <b>Asian Development Bank</b>. I have been an academic visitor at the <b>Bank of England</b> from September 2022 to July 2024. </div> <br>
 
