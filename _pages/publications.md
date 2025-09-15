@@ -62,7 +62,9 @@ Work in Progress
 -----
 * Sustainable Relationships: Deforestation in the Cocoa Supply Chain (<i>draft coming soon</i>), with <a href="https://sites.google.com/site/davidedelprete1986/" style="text-decoration: none" target="_blank">D. Del Prete</a> and <a href="https://trase.earth/team/valentin-guye" style="text-decoration: none" target="_blank">V. Guye</a>
 
-* Buyer Market Power, Transport Mode, and Exchange Rate Shocks (<i>draft coming soon</i>), with <a href="https://sites.google.com/site/davidedelprete1986/" style="text-decoration: none" target="_blank">D. Del Prete</a> and A. Rahman 
+* Buyer Market Power, Transport Mode, and Exchange Rate Shocks (<i>draft coming soon</i>), with <a href="https://sites.google.com/site/davidedelprete1986/" style="text-decoration: none" target="_blank">D. Del Prete</a> and A. Rahman
+
+* Search Frictions and Transportation Costs, with <a href="https://www.marcoerrico.net/home-page" style="text-decoration: none" target="_blank">M. Errico</a>, M. Masullo, and <a href="https://federicorodari.com/" style="text-decoration: none" target="_blank">F. Rodari</a>
 
 <!--* Endogenous Bilateral Trade Imbalances, with <a href="https://warwick.ac.uk/fac/soc/economics/staff/dnovy/" style="text-decoration: none" target="_blank">D. Novy</a> -->
 
