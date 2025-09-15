@@ -5,10 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-Job Market Paper 
+
+Working Papers
 -----
 <h4 class="expandable-header">
-    <span class="header-text"><a href="https://edoardotolva.github.io/files/edoardotolva-jmp.pdf">One Way or Another: Modes of Transport and International Trade</a> </span>
+    <span class="header-text"><a href="https://edoardotolva.github.io/files/edoardotolva-jmp.pdf">One Way or Another: Modes of Transport and International Trade</a> (JMP) </span>
     <span class="line-container">
         <span class="line"></span>
         <span class="arrow">&#x25BC;</span>
@@ -21,14 +22,8 @@ The transport sector is the backbone of international trade and has faced multip
 <br>    
 </div>
 
-Working Papers
------
-<!-- * Oligopolies in Trade and Transportation: Implications for Gains from Trade *(Draft coming soon)*, with <a href="https://www.enricocristoforoni.com/" style="text-decoration: none" target="_blank">E. Cristoforoni</a>, <a href="https://www.marcoerrico.net/home-page" style="text-decoration: none" target="_blank">M. Errico</a>, and Federico Rodari -->
-
-
-
 <h4 class="expandable-header">
-    <span class="header-text"><a href="https://edoardotolva.github.io/files/CERT_v2.pdf">Oligopolies in Trade and Transportation: Implications for Gains from Trade </a>, with <a href="https://www.enricocristoforoni.com/" style="text-decoration: none" target="_blank">E. Cristoforoni</a>, <a href="https://www.marcoerrico.net/home-page" style="text-decoration: none" target="_blank">M. Errico</a>, and <a href="https://federicorodari.com/" style="text-decoration: none" target="_blank">F. Rodari</a></span>
+    <span class="header-text"><a href="https://edoardotolva.github.io/files/CERT_v2.pdf">Oligopolies in Trade and Transportation: Implications for Gains from Trade </a> (<i>submitted</i>), with <a href="https://www.enricocristoforoni.com/" style="text-decoration: none" target="_blank">E. Cristoforoni</a>, <a href="https://www.marcoerrico.net/home-page" style="text-decoration: none" target="_blank">M. Errico</a>, and <a href="https://federicorodari.com/" style="text-decoration: none" target="_blank">F. Rodari</a> </span>
     <span class="line-container">
         <span class="line"></span>
         <span class="arrow">&#x25BC;</span>
@@ -38,7 +33,7 @@ Working Papers
 We study how the interplay between oligopoly in the transportation industry and oligopsony power retained by non-atomistic importers affects the transmission of trade policy. Using Chilean customs data, we document strong concentration among carriers and importers and show that freight prices are determined through bilateral bargaining under two-sided market power. We estimate a trade model that endogenizes transportation costs by embedding oligopoly and oligopsony in the transport sector, along with bilateral bargaining. We find sizable carrier markups, partially offset by importer bargaining power. Embedding this mechanism into a quantitative trade model, we find that the endogenous response of transportation costs reduces the welfare cost of tariffs by 50% compared to the standard case of iceberg trade costs. This effect is primarily driven by
 decreasing returns to scale in carriers’ supply. Bargaining, in turn, plays a central role in shaping price levels and market allocations in the transportation sector.
 <br>     
-<b>Presented at:</b> <i> Midwest Trade Conference<sup>*</sup>, Naples Trade and Development Workshop<sup>*</sup>, 17th FIW International Economics Conference, World Bank Annual Conference on Transport Economics 2025<sup>*</sup>, International Seminar on Trade (ISoT)<sup>*</sup>.  </i> <br>
+<b>Presented at:</b> <i> Midwest Trade Conference<sup>*</sup>, Naples Trade and Development Workshop<sup>*</sup>, 17th FIW International Economics Conference, World Bank Annual Conference on Transport Economics 2025<sup>*</sup>, International Seminar on Trade (ISoT)<sup>*</sup>, ETSG 2025.  </i> <br>
 <b>Awards:</b> <i> Young Economist Award at 17th FIW International Economics Conference </i> 
 <br>
 *by coauthor.
@@ -47,7 +42,7 @@ decreasing returns to scale in carriers’ supply. Bargaining, in turn, plays a 
 <!--* Brexit and Goods Trade: A trending topic *(Draft coming soon)*, with  <a href="https://www.bankofengland.co.uk/research/Researchers/john-lewis" style="text-decoration: none" target="_blank">J. Lewis</a> -->
 
 <h4 class="expandable-header">
-    <span class="header-text"><a href="https://edoardotolva.github.io/files/brexit_paper_wp.pdf">Brexit and Goods Trade: A trending topic</a>, with <a href="https://www.bankofengland.co.uk/research/Researchers/john-lewis" style="text-decoration: none" target="_blank">J. Lewis</a></span>
+    <span class="header-text"><a href="https://edoardotolva.github.io/files/brexit_paper_wp.pdf">Brexit and Goods Trade: A trending topic</a> (<i>submitted</i>), with <a href="https://www.bankofengland.co.uk/research/Researchers/john-lewis" style="text-decoration: none" target="_blank">J. Lewis</a></span>
     <span class="line-container">
         <span class="line"></span>
         <span class="arrow">&#x25BC;</span>
@@ -66,11 +61,11 @@ Brexit is a striking example of a potentially new era of trade disintegration. W
 Work in Progress
 -----
 * Sustainable Relationships: Deforestation in the Cocoa Supply Chain, with <a href="https://sites.google.com/site/davidedelprete1986/" style="text-decoration: none" target="_blank">D. Del Prete</a> and <a href="https://trase.earth/team/valentin-guye" style="text-decoration: none" target="_blank">V. Guye</a>
+
+* Buyer Market Power, Transport Mode, and Exchange Rate Shocks, with <a href="https://sites.google.com/site/davidedelprete1986/" style="text-decoration: none" target="_blank">D. Del Prete</a> and A. Rahman 
+
 <!--* Endogenous Bilateral Trade Imbalances, with <a href="https://warwick.ac.uk/fac/soc/economics/staff/dnovy/" style="text-decoration: none" target="_blank">D. Novy</a> -->
 
-<!-- 
-To add: ADB + translog
--->
 
 Policy Work
 -----
