@@ -5,11 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+<!--
+link to paper :  <span class="header-text"><a href="https://edoardotolva.github.io/files/edoardotolva-jmp.pdf">One Way or Another: Modes of Transport and International Trade</a> (JMP) </span>
+-->
 
 Working Papers
 -----
 <h4 class="expandable-header">
-    <span class="header-text"><a href="https://edoardotolva.github.io/files/edoardotolva-jmp.pdf">One Way or Another: Modes of Transport and International Trade</a> (JMP) </span>
+    <span class="header-text"><a>One Way or Another: Modes of Transport and International Trade</a> (New draft soon!) </span>
     <span class="line-container">
         <span class="line"></span>
         <span class="arrow">&#x25BC;</span>
