@@ -12,7 +12,7 @@ link to paper :  <span class="header-text"><a href="https://edoardotolva.github.
 Working Papers
 -----
 <h4 class="expandable-header">
-    <span class="header-text"><a>One Way or Another: Modes of Transport and International Trade</a> (New draft soon!) </span>
+    <span class="header-text"><a>One Way or Another: Modes of Transport and International Trade</a> (new draft coming soon) </span>
     <span class="line-container">
         <span class="line"></span>
         <span class="arrow">&#x25BC;</span>
