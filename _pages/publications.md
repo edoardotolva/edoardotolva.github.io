@@ -60,7 +60,7 @@ Brexit is a striking example of a potentially new era of trade disintegration. W
 </div>
 
 <h4 class="expandable-header">
-    <span>Buyer Market Power, Transport Mode, and Exchange Rate Shocks</a> (<i>submitted</i>), with <a href="https://sites.google.com/site/davidedelprete1986/" style="text-decoration: none" target="_blank">D. Del Prete</a> and A. Rahman</span>
+    <span class="header-text"><a>Buyer Market Power, Transport Mode, and Exchange Rate Shocks</a> (<i>submitted</i>), with <a href="https://sites.google.com/site/davidedelprete1986/" style="text-decoration: none" target="_blank">D. Del Prete</a> and A. Rahman</span>
     <span class="line-container">
         <span class="line"></span>
         <span class="arrow">&#x25BC;</span>
