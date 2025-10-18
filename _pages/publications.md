@@ -71,9 +71,6 @@ Brexit is a striking example of a potentially new era of trade disintegration. W
     insert abstract here
   -->  
 <br>    
-<b>Presented at:</b> <i> ASSA meeting 2024<sup>*</sup>, Economics of Global Ineraction 2023<sup>*</sup>, ETSG 2024<sup>*</sup>, Midwest Trade Conference<sup>*</sup>. </i>   
-<br> 
-*by coauthor.
 </div>
 
 Work in Progress
