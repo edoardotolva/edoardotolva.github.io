@@ -45,7 +45,7 @@ decreasing returns to scale in carriers’ supply. Bargaining, in turn, plays a 
 <!--* Brexit and Goods Trade: A trending topic *(Draft coming soon)*, with  <a href="https://www.bankofengland.co.uk/research/Researchers/john-lewis" style="text-decoration: none" target="_blank">J. Lewis</a> -->
 
 <h4 class="expandable-header">
-    <span class="header-text"><a href="https://edoardotolva.github.io/files/brexit_paper_wp.pdf">Brexit and Goods Trade: A trending topic</a> (<i>submitted</i>), with <a href="https://www.bankofengland.co.uk/research/Researchers/john-lewis" style="text-decoration: none" target="_blank">J. Lewis</a></span>
+    <span class="header-text"><a href="https://edoardotolva.github.io/files/brexit_paper_wp.pdf">Brexit and Goods Trade: A trending topic</a>, with <a href="https://www.bankofengland.co.uk/research/Researchers/john-lewis" style="text-decoration: none" target="_blank">J. Lewis</a></span>
     <span class="line-container">
         <span class="line"></span>
         <span class="arrow">&#x25BC;</span>
@@ -59,13 +59,26 @@ Brexit is a striking example of a potentially new era of trade disintegration. W
 *by coauthor.
 </div>
 
-
+<h4 class="expandable-header">
+    <span>Buyer Market Power, Transport Mode, and Exchange Rate Shocks</a> (<i>submitted</i>), with <a href="https://sites.google.com/site/davidedelprete1986/" style="text-decoration: none" target="_blank">D. Del Prete</a> and A. Rahman</span>
+    <span class="line-container">
+        <span class="line"></span>
+        <span class="arrow">&#x25BC;</span>
+    </span>
+</h4>
+<div style="text-align: justify;" class="expandable-section">
+<!--
+    insert abstract here
+  -->  
+<br>    
+<b>Presented at:</b> <i> ASSA meeting 2024<sup>*</sup>, Economics of Global Ineraction 2023<sup>*</sup>, ETSG 2024<sup>*</sup>, Midwest Trade Conference<sup>*</sup>. </i>   
+<br> 
+*by coauthor.
+</div>
 
 Work in Progress
 -----
 * Sustainable Relationships: Deforestation in the Cocoa Supply Chain (<i>draft coming soon</i>), with <a href="https://sites.google.com/site/davidedelprete1986/" style="text-decoration: none" target="_blank">D. Del Prete</a> and <a href="https://trase.earth/team/valentin-guye" style="text-decoration: none" target="_blank">V. Guye</a>
-
-* Buyer Market Power, Transport Mode, and Exchange Rate Shocks (<i>draft coming soon</i>), with <a href="https://sites.google.com/site/davidedelprete1986/" style="text-decoration: none" target="_blank">D. Del Prete</a> and A. Rahman
 
 * Search Frictions and Transportation Costs, with <a href="https://www.marcoerrico.net/home-page" style="text-decoration: none" target="_blank">M. Errico</a>, M. Masullo, and <a href="https://federicorodari.com/" style="text-decoration: none" target="_blank">F. Rodari</a>
 
