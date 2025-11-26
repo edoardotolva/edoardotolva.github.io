@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 <div style="text-align: justify;">
-I am an Invited Assistant Professor in Economics at the <b>School of Economics and Management (ISEG) </b> at the University of Lisbon.  <br><br> 
+I am an Invited Assistant Professor in Economics at the <b>School of Economics and Management (ISEG) </b> at the Universidade de Lisboa.  <br><br> 
 
 My research interests focus on <b>International Trade</b>, and <b> Environmental Economics</b>. In particular, I am interested in studying how transportation shapes economic activity across countries.  <br><br> 
 
 I obtained my PhD in economics from the <b>University of Warwick</b> in February 2025. <br><br> 
   
-I occasionally work as an external consultant for the <b>World Bank</b> and the <b>Asian Development Bank</b>. I have been an academic visitor at the <b>Bank of England</b> from September 2022 to July 2024. </div> <br>
+I worked as an external consultant for the <b>World Bank</b> and the <b>Asian Development Bank</b>. I have been an academic visitor at the <b>Bank of England</b> from September 2022 to July 2024. </div> <br>
 
 <!--
 I am currently an external consultant for the <b>Asian Development Bank</b>. I have been an academic visitor at the <b>Bank of England</b> from September 2022 to July 2024. </div> <br>
