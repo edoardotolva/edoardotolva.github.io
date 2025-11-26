@@ -94,7 +94,8 @@ Work in Progress
   -->  
 * Search Frictions and Transportation Costs, with <a href="https://www.marcoerrico.net/home-page" style="text-decoration: none" target="_blank">M. Errico</a>, M. Masullo, and <a href="https://federicorodari.com/" style="text-decoration: none" target="_blank">F. Rodari</a>
 
-* Generalized Translog Gravity, with <a href="https://warwick.ac.uk/fac/soc/economics/staff/dnovy/" style="text-decoration: none" target="_blank">D. Novy</a> 
+* Generalized Translog Gravity, with <a href="https://warwick.ac.uk/fac/soc/economics/staff/dnovy/" style="text-decoration: none" target="_blank">D. Novy</a>
+  
 <!--
 * Endogenous Bilateral Trade Imbalances, with <a href="https://warwick.ac.uk/fac/soc/economics/staff/dnovy/" style="text-decoration: none" target="_blank">D. Novy</a> 
 -->
