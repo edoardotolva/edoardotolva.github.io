@@ -60,7 +60,21 @@ Brexit is a striking example of a potentially new era of trade disintegration. W
 </div>
 
 <h4 class="expandable-header">
-    <span class="header-text"><a>Buyer Market Power, Transport Mode, and Exchange Rate Shocks</a> (<i>submitted</i>), with <a href="https://sites.google.com/site/davidedelprete1986/" style="text-decoration: none" target="_blank">D. Del Prete</a> and A. Rahman</span>
+    <span class="header-text"><a href="https://edoardotolva.github.io/files/SustainableRelationships_paper.pdf">Sustainable Relationships</a> , with <a href="https://sites.google.com/site/davidedelprete1986/" style="text-decoration: none" target="_blank">D. Del Prete</a> and <a href="https://trase.earth/team/valentin-guye" style="text-decoration: none" target="_blank">V. Guye</a></span>
+    <span class="line-container">
+        <span class="line"></span>
+        <span class="arrow">&#x25BC;</span>
+    </span>
+</h4>
+<div style="text-align: justify;" class="expandable-section">
+<!--
+    insert abstract here
+  -->  
+<br>    
+</div>
+
+<h4 class="expandable-header">
+    <span class="header-text"><a href="https://edoardotolva.github.io/files/EWP826.pdf">Buyer Market Power, Transport Mode, and Exchange Rate Shocks</a> (<i>submitted</i>), with <a href="https://sites.google.com/site/davidedelprete1986/" style="text-decoration: none" target="_blank">D. Del Prete</a> and A. Rahman</span>
     <span class="line-container">
         <span class="line"></span>
         <span class="arrow">&#x25BC;</span>
@@ -75,11 +89,15 @@ Brexit is a striking example of a potentially new era of trade disintegration. W
 
 Work in Progress
 -----
+<!--
 * Sustainable Relationships (<i>draft coming soon</i>), with <a href="https://sites.google.com/site/davidedelprete1986/" style="text-decoration: none" target="_blank">D. Del Prete</a> and <a href="https://trase.earth/team/valentin-guye" style="text-decoration: none" target="_blank">V. Guye</a>
-
+  -->  
 * Search Frictions and Transportation Costs, with <a href="https://www.marcoerrico.net/home-page" style="text-decoration: none" target="_blank">M. Errico</a>, M. Masullo, and <a href="https://federicorodari.com/" style="text-decoration: none" target="_blank">F. Rodari</a>
 
-<!--* Endogenous Bilateral Trade Imbalances, with <a href="https://warwick.ac.uk/fac/soc/economics/staff/dnovy/" style="text-decoration: none" target="_blank">D. Novy</a> -->
+* Generalized Translog Gravity, with <a href="https://warwick.ac.uk/fac/soc/economics/staff/dnovy/" style="text-decoration: none" target="_blank">D. Novy</a> 
+<!--
+* Endogenous Bilateral Trade Imbalances, with <a href="https://warwick.ac.uk/fac/soc/economics/staff/dnovy/" style="text-decoration: none" target="_blank">D. Novy</a> 
+-->
 
 
 Policy Work
