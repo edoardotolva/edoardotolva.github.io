@@ -35,11 +35,14 @@ The transport sector is the backbone of international trade and has faced multip
 <div style="text-align: justify;" class="expandable-section">
 We study how the interplay between oligopoly in the transportation industry and oligopsony power retained by non-atomistic importers affects the transmission of trade policy. Using Chilean customs data, we document strong concentration among carriers and importers and show that freight prices are determined through bilateral bargaining under two-sided market power. We estimate a trade model that endogenizes transportation costs by embedding oligopoly and oligopsony in the transport sector, along with bilateral bargaining. We find sizable carrier markups, partially offset by importer bargaining power. Embedding this mechanism into a quantitative trade model, we find that the endogenous response of transportation costs reduces the welfare cost of tariffs by 50% compared to the standard case of iceberg trade costs. This effect is primarily driven by
 decreasing returns to scale in carriers’ supply. Bargaining, in turn, plays a central role in shaping price levels and market allocations in the transportation sector.
-<br>     
+<br>   
+    <!--
 <b>Presented at:</b> <i> Midwest Trade Conference<sup>*</sup>, Naples Trade and Development Workshop<sup>*</sup>, 17th FIW International Economics Conference, World Bank Annual Conference on Transport Economics 2025<sup>*</sup>, International Seminar on Trade (ISoT)<sup>*</sup>, ETSG 2025.  </i> <br>
+    *by coauthor.
+    -->
 <b>Awards:</b> <i> Young Economist Award at 17th FIW International Economics Conference </i> 
 <br>
-*by coauthor.
+
 </div>
 
 <!--* Brexit and Goods Trade: A trending topic *(Draft coming soon)*, with  <a href="https://www.bankofengland.co.uk/research/Researchers/john-lewis" style="text-decoration: none" target="_blank">J. Lewis</a> -->
@@ -54,8 +57,10 @@ decreasing returns to scale in carriers’ supply. Bargaining, in turn, plays a 
 <div style="text-align: justify;" class="expandable-section">
 Brexit is a striking example of a potentially new era of trade disintegration. We estimate its effect on UK-EU goods trade using monthly bilateral trade data for 50 countries at the HS2 product level. Under various de-trending approaches, we find that the shift from EU membership arrangements to the Trade and Cooperation Agreement (TCA) in January 2021 caused a 17–18\% fall in UK-EU trade.  However, the longer-run effect, comparing pre-referendum with post-TCA trade, is sensitive to how trends are included, as estimates for the interim period between the referendum and Brexit vary substantially by trend choice. By product type, TCA implementation mainly reduced trade in consumer and intermediate goods, with no significant effect on capital goods. Further, we find no clear correlation between the trade effects and the goods-level trade elasticities reported by Fontagné et al. (2022).   
 <br>    
+ <!--    
 <b>Presented at:</b> <i> ASSA meeting 2024<sup>*</sup>, Economics of Global Ineraction 2023<sup>*</sup>, ETSG 2024<sup>*</sup>, Midwest Trade Conference<sup>*</sup>. </i>   
 <br> 
+-->
 *by coauthor.
 </div>
 
@@ -67,9 +72,8 @@ Brexit is a striking example of a potentially new era of trade disintegration. W
     </span>
 </h4>
 <div style="text-align: justify;" class="expandable-section">
-<!--
-    insert abstract here
-  -->  
+The environmental impact of agricultural Global Value Chains (GVCs) has become an increasing source of concern. These chains are dominated by large international buyers whose sourcing strategies, shaped by managerial decisions, vary considerably. This paper
+investigates how such differences in sourcing organization relate to environmental outcomes within agricultural GVCs. Drawing on detailed transaction-level data from Cˆote d’Ivoire’s cocoa GVC, we find that buyers adopting more relational sourcing strategies are associated with lower levels of deforestation. This effect is mediated by managers’ educational backgrounds which influence the sourcing strategies their firms adopt and, ultimately, deforestation. Overall, the findings highlight the central role of buyer–supplier relationships in either promoting or constraining environmental sustainability in agricultural GVCs.
 <br>    
 </div>
 
@@ -81,9 +85,7 @@ Brexit is a striking example of a potentially new era of trade disintegration. W
     </span>
 </h4>
 <div style="text-align: justify;" class="expandable-section">
-<!--
-    insert abstract here
-  -->  
+This paper studies how international buyers’ market power and transport mode shape the pass-through of exchange rate shocks to export prices. Using transaction-level customs data from the Bangladeshi garment sector, we first document substantial buyer market power and the concentration of export activity in key trade hubs that shape transport decisions. We then show that large buyers leverage both their market power and their reliance on air freight to mitigate the impact of exchange rate fluctuations. Taken together, our findings highlight how buyer characteristics shape exporters’ adjustment to external shocks, with broader implications for regional economic resilience.
 <br>    
 </div>
 
