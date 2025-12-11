@@ -13,7 +13,21 @@ author_profile: true
 ### Teaching Assistant for St John’s College: 2020/2021
 * Paper IV International Trade 
 -->
-I have taught several courses at the master’s and bachelor’s levels on topics related to international trade and macroeconomics.
+
+<h3 class="expandable-header">
+    <span class="header-text"> ISEG Lisbon School of Economics and Management </span>
+    <span class="line-container">
+        <span class="line"></span>
+        <span class="arrow">&#x25BC;</span>
+    </span>
+</h3>
+<div class="expandable-section">
+ <b>  Assistant Professor (2025/2026):</b> 
+    <ul>
+        <li>  Economics II / Macroeconomics I </li>
+    </ul>
+</div>
+
 
 <!-- First Expandable Section -->
 <h3 class="expandable-header">
