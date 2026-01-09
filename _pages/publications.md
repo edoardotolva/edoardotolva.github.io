@@ -61,7 +61,6 @@ Brexit is a striking example of a potentially new era of trade disintegration. W
 <b>Presented at:</b> <i> ASSA meeting 2024<sup>*</sup>, Economics of Global Ineraction 2023<sup>*</sup>, ETSG 2024<sup>*</sup>, Midwest Trade Conference<sup>*</sup>. </i>   
 <br> 
 -->
-*by coauthor.
 </div>
 
 <h4 class="expandable-header">
@@ -72,8 +71,7 @@ Brexit is a striking example of a potentially new era of trade disintegration. W
     </span>
 </h4>
 <div style="text-align: justify;" class="expandable-section">
-The environmental impact of agricultural Global Value Chains (GVCs) has become an increasing source of concern. These chains are dominated by large international buyers whose sourcing strategies, shaped by managerial decisions, vary considerably. This paper
-investigates how such differences in sourcing organization relate to environmental outcomes within agricultural GVCs. Drawing on detailed transaction-level data from Cˆote d’Ivoire’s cocoa GVC, we find that buyers adopting more relational sourcing strategies are associated with lower levels of deforestation. This effect is mediated by managers’ educational backgrounds which influence the sourcing strategies their firms adopt and, ultimately, deforestation. Overall, the findings highlight the central role of buyer–supplier relationships in either promoting or constraining environmental sustainability in agricultural GVCs.
+The environmental impact of agricultural Global Value Chains (GVCs) has become an increasing source of concern. These chains are dominated by large international buyers whose sourcing strategies, shaped by managerial decisions, vary considerably. This paper investigates how such differences in sourcing organization relate to environmental outcomes within agricultural GVCs. Drawing on detailed transaction-level data from Côte d'Ivoire’s cocoa GVC, we find that buyers adopting more relational sourcing strategies are associated with lower levels of deforestation. This effect is mediated by managers’ educational backgrounds which influence the sourcing strategies their firms adopt and, ultimately, deforestation. Overall, the findings highlight the central role of buyer–supplier relationships in either promoting or constraining environmental sustainability in agricultural GVCs.
 <br>    
 </div>
 
