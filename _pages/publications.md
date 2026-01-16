@@ -76,7 +76,7 @@ The environmental impact of agricultural Global Value Chains (GVCs) has become a
 </div>
 
 <h4 class="expandable-header">
-    <span class="header-text"><a href="https://edoardotolva.github.io/files/EWP826.pdf">Buyer Market Power, Transport Mode, and Exchange Rate Shocks</a> (<i>Reject & R Journal of Economic Geography</i>), with <a href="https://sites.google.com/site/davidedelprete1986/" style="text-decoration: none" target="_blank">D. Del Prete</a> and A. Rahman</span>
+    <span class="header-text"><a href="https://edoardotolva.github.io/files/EWP826.pdf">Buyer Market Power, Transport Mode, and Exchange Rate Shocks</a> (<i>Reject&R Journal of Economic Geography</i>), with <a href="https://sites.google.com/site/davidedelprete1986/" style="text-decoration: none" target="_blank">D. Del Prete</a> and A. Rahman</span>
     <span class="line-container">
         <span class="line"></span>
         <span class="arrow">&#x25BC;</span>
