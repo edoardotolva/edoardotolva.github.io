@@ -19,7 +19,7 @@ Working Papers
     </span>
 </h4>
 <div style="text-align: justify;" class="expandable-section">
-The transport sector is the backbone of international trade and has faced multiple disruptions in recent years. I study the substitutability between different transport modes and how mode-specific trade cost shocks affect international trade flows. I use the closure of Russian airspace in 2022 as an exogenous change in transport costs to provide novel estimates of the elasticity of substitution between transport modes. To quantify the importance of this margin of adjustment in equilibrium, I develop a Ricardian model of international trade with multiple transport modes. Modes are substitutable but endogenous congestion forces limit substitutability. I apply this framework to quantify the effects of recent trade cost shocks such as the closure of Russian airspace and the Suez Canal blockage. Transport mode substitution reduces welfare losses by 4% relative to a non-substitution scenario. However, substitution has potentially negative consequences for the carbon footprint of international trade. Higher sea transport costs can lead to increased carbon emissions due to substitution toward more carbon-intensive air transport.
+The transport sector is the backbone of international trade and has faced multiple disruptions in recent years. This paper studies how substitution across transport modes shapes international trade, welfare, and carbon emissions. Motivated by recent disruptions to air and maritime transport, I develop a quantitative multicountry trade model with multiple transport modes and endogenous congestion costs. I estimate the elasticity of substitution between transport modes at the country-pair level using the closure of Russian airspace as a quasi-natural experiment. I find an average elasticity of substitution between air and sea transport of 2.6. Counterfactual simulations show that allowing for mode substitution attenuates welfare losses from mode-specific transport shocks. However, since transport modes differ in carbon intensity, substitution also affects the environmental impact of trade and can weaken the effectiveness of environmental policies. 
 <br> 
 <b>Presented at: </b> <i>ETSG, UEA European Meeting, GEP-CEPR Postgrad Conference, RIEF, EAYE, SETC, CEP/Warwick Junior Trade Workshop, Napoli Parthenope, Midwest Trade Conference, Norwegian School of Economics, World Bank Annual Conference on Transport Economics 2025.  </i>  
 <br>    
@@ -55,7 +55,7 @@ decreasing returns to scale in carriers’ supply. Bargaining, in turn, plays a 
     </span>
 </h4>
 <div style="text-align: justify;" class="expandable-section">
-Brexit is a striking example of a potentially new era of trade disintegration. We estimate its effect on UK-EU goods trade using monthly bilateral trade data for 50 countries at the HS2 product level. Under various de-trending approaches, we find that the shift from EU membership arrangements to the Trade and Cooperation Agreement (TCA) in January 2021 caused a 17–18\% fall in UK-EU trade.  However, the longer-run effect, comparing pre-referendum with post-TCA trade, is sensitive to how trends are included, as estimates for the interim period between the referendum and Brexit vary substantially by trend choice. By product type, TCA implementation mainly reduced trade in consumer and intermediate goods, with no significant effect on capital goods. Further, we find no clear correlation between the trade effects and the goods-level trade elasticities reported by Fontagné et al. (2022).   
+Brexit is a striking example of a potentially new era of trade disintegration. We estimate its effect on UK-EU goods trade using monthly bilateral trade data for 50 countries at the HS2 product level. Under various de-trending approaches, we find that the shift from EU membership arrangements to the Trade and Cooperation Agreement (TCA) in January 2021 caused a 17–18% fall in UK-EU trade.  However, the longer-run effect, comparing pre-referendum with post-TCA trade, is sensitive to how trends are included, as estimates for the interim period between the referendum and Brexit vary substantially by trend choice. By product type, TCA implementation mainly reduced trade in consumer and intermediate goods, with no significant effect on capital goods. Further, we find no clear correlation between the trade effects and the goods-level trade elasticities reported by Fontagné et al. (2022).   
 <br>    
  <!--    
 <b>Presented at:</b> <i> ASSA meeting 2024<sup>*</sup>, Economics of Global Ineraction 2023<sup>*</sup>, ETSG 2024<sup>*</sup>, Midwest Trade Conference<sup>*</sup>. </i>   
@@ -64,7 +64,7 @@ Brexit is a striking example of a potentially new era of trade disintegration. W
 </div>
 
 <h4 class="expandable-header">
-    <span class="header-text"><a href="https://edoardotolva.github.io/files/SustainableRelationships_paper.pdf">Sustainable Relationships</a>, with <a href="https://sites.google.com/site/davidedelprete1986/" style="text-decoration: none" target="_blank">D. Del Prete</a> and <a href="https://trase.earth/team/valentin-guye" style="text-decoration: none" target="_blank">V. Guye</a></span>
+    <span class="header-text"><a href="https://edoardotolva.github.io/files/SustainableRelationships_paper.pdf">Sustainable Relationships</a> (<i>submitted</i>), with <a href="https://sites.google.com/site/davidedelprete1986/" style="text-decoration: none" target="_blank">D. Del Prete</a> and <a href="https://trase.earth/team/valentin-guye" style="text-decoration: none" target="_blank">V. Guye</a></span>
     <span class="line-container">
         <span class="line"></span>
         <span class="arrow">&#x25BC;</span>
@@ -76,7 +76,7 @@ The environmental impact of agricultural Global Value Chains (GVCs) has become a
 </div>
 
 <h4 class="expandable-header">
-    <span class="header-text"><a href="https://edoardotolva.github.io/files/EWP826.pdf">Buyer Market Power, Transport Mode, and Exchange Rate Shocks</a> (<i>submitted</i>), with <a href="https://sites.google.com/site/davidedelprete1986/" style="text-decoration: none" target="_blank">D. Del Prete</a> and A. Rahman</span>
+    <span class="header-text"><a href="https://edoardotolva.github.io/files/EWP826.pdf">Buyer Market Power, Transport Mode, and Exchange Rate Shocks</a> (<i>Reject & R Journal of Economic Geography</i>), with <a href="https://sites.google.com/site/davidedelprete1986/" style="text-decoration: none" target="_blank">D. Del Prete</a> and A. Rahman</span>
     <span class="line-container">
         <span class="line"></span>
         <span class="arrow">&#x25BC;</span>
