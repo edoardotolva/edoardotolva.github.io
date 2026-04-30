@@ -46,27 +46,32 @@ decreasing returns to scale in carriers’ supply. Bargaining, in turn, plays a 
 </div>
 
 
+<!--  
+href="https://edoardotolva.github.io/files/SustainableRelationships_paper.pdf"
+-->
+
 <h4 class="expandable-header">
-    <span class="header-text"><a href="https://edoardotolva.github.io/files/SustainableRelationships_paper.pdf">Sustainable Relationships</a> (<i>submitted</i>), with <a href="https://sites.google.com/site/davidedelprete1986/" style="text-decoration: none" target="_blank">D. Del Prete</a> and <a href="https://trase.earth/team/valentin-guye" style="text-decoration: none" target="_blank">V. Guye</a></span>
+    <span class="header-text"><a >Sustainable Relationships</a> (<i>New version cooming soon</i>), with <a href="https://sites.google.com/site/davidedelprete1986/" style="text-decoration: none" target="_blank">D. Del Prete</a> and <a href="https://trase.earth/team/valentin-guye" style="text-decoration: none" target="_blank">V. Guye</a></span>
     <span class="line-container">
         <span class="line"></span>
         <span class="arrow">&#x25BC;</span>
     </span>
 </h4>
 <div style="text-align: justify;" class="expandable-section">
+ <!-- 
 The environmental impact of agricultural Global Value Chains (GVCs) has become an increasing source of concern. These chains are dominated by large international buyers whose sourcing strategies, shaped by managerial decisions, vary considerably. This paper investigates how such differences in sourcing organization relate to environmental outcomes within agricultural GVCs. Drawing on detailed transaction-level data from Côte d'Ivoire’s cocoa GVC, we find that buyers adopting more relational sourcing strategies are associated with lower levels of deforestation. This effect is mediated by managers’ educational backgrounds which influence the sourcing strategies their firms adopt and, ultimately, deforestation. Overall, the findings highlight the central role of buyer–supplier relationships in either promoting or constraining environmental sustainability in agricultural GVCs.
-<br>    
+--> <br>    
 </div>
 
 <h4 class="expandable-header">
-    <span class="header-text"><a href="https://edoardotolva.github.io/files/EWP826.pdf">Buyer Market Power, Transport Mode, and Exchange Rate Shocks</a> (<i>Reject&R Journal of Economic Geography</i>), with <a href="https://sites.google.com/site/davidedelprete1986/" style="text-decoration: none" target="_blank">D. Del Prete</a> and A. Rahman</span>
+    <span class="header-text"><a href="https://edoardotolva.github.io/files/transport_erpt_paper.pdf">Transport Mode and the Geography of Exchange Rate Pass-Through</a> (<i>Reject&R Journal of Economic Geography</i>), with <a href="https://sites.google.com/site/davidedelprete1986/" style="text-decoration: none" target="_blank">D. Del Prete</a> and A. Rahman</span>
     <span class="line-container">
         <span class="line"></span>
         <span class="arrow">&#x25BC;</span>
     </span>
 </h4>
 <div style="text-align: justify;" class="expandable-section">
-This paper studies how international buyers’ market power and transport mode shape the pass-through of exchange rate shocks to export prices. Using transaction-level customs data from the Bangladeshi garment sector, we first document substantial buyer market power and the concentration of export activity in key trade hubs that shape transport decisions. We then show that large buyers leverage both their market power and their reliance on air freight to mitigate the impact of exchange rate fluctuations. Taken together, our findings highlight how buyer characteristics shape exporters’ adjustment to external shocks, with broader implications for regional economic resilience.
+This paper examines how transport mode shapes the geography of exchange rate pass-through (ERPT) within Global Value Chains. Using transaction-level customs data from the Bangladeshi garment sector (2018–2024), we exploit the sharp depreciation of the Bangladeshi Taka in 2022 to compare maritime and air-based trade corridors through Chittagong seaport and Dhaka airport. We show that ERPT to exporter prices is incomplete on average and systematically lower in buyer–seller relationships that rely more intensively on air transport. This differential is concentrated in destinations and products where delivery speed is especially valuable, notably European fast-fashion markets.
 <br>    
 </div>
 
