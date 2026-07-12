@@ -8,25 +8,11 @@ author_profile: true
 <!--
 link to paper :  <span class="header-text"><a href="https://edoardotolva.github.io/files/edoardotolva-jmp.pdf">One Way or Another: Modes of Transport and International Trade</a> (JMP) </span>
 -->
-
-Working Papers
+Publications 
 -----
-<h4 class="expandable-header">
-  <span class="header-text"><a href="https://edoardotolva.github.io/files/edoardotolva-jmp.pdf">One Way or Another: Modes of Transport and International Trade</a> (JMP) </span>
-    <span class="line-container">
-        <span class="line"></span>
-        <span class="arrow">&#x25BC;</span>
-    </span>
-</h4>
-<div style="text-align: justify;" class="expandable-section">
-The transport sector is the backbone of international trade and has faced multiple disruptions in recent years. This paper studies how substitution across transport modes shapes international trade, welfare, and carbon emissions. Motivated by recent disruptions to air and maritime transport, I develop a quantitative multicountry trade model with multiple transport modes and endogenous congestion costs. I estimate the elasticity of substitution between transport modes at the country-pair level using the closure of Russian airspace as a quasi-natural experiment. I find an average elasticity of substitution between air and sea transport of 2.6. Counterfactual simulations show that allowing for mode substitution attenuates welfare losses from mode-specific transport shocks. However, since transport modes differ in carbon intensity, substitution also affects the environmental impact of trade and can weaken the effectiveness of environmental policies. 
-<br> 
-<b>Presented at: </b> <i>ETSG, UEA European Meeting, GEP-CEPR Postgrad Conference, RIEF, EAYE, SETC, CEP/Warwick Junior Trade Workshop, Napoli Parthenope, Midwest Trade Conference, Norwegian School of Economics, World Bank Annual Conference on Transport Economics 2025.  </i>  
-<br>    
-</div>
 
 <h4 class="expandable-header">
-    <span class="header-text"><a href="https://edoardotolva.github.io/files/CERT_v2.pdf">Oligopolies in Trade and Transportation: Implications for Gains from Trade</a>, with <a href="https://www.enricocristoforoni.com/" style="text-decoration: none" target="_blank">E. Cristoforoni</a>, <a href="https://www.marcoerrico.net/home-page" style="text-decoration: none" target="_blank">M. Errico</a>, and <a href="https://federicorodari.com/" style="text-decoration: none" target="_blank">F. Rodari</a> (<i>R&R Journal of International Economics</i>) </span>
+    <span class="header-text"><a href="https://edoardotolva.github.io/files/CERT_v2.pdf">Oligopolies in Trade and Transportation: Implications for Gains from Trade</a>, with <a href="https://www.enricocristoforoni.com/" style="text-decoration: none" target="_blank">E. Cristoforoni</a>, <a href="https://www.marcoerrico.net/home-page" style="text-decoration: none" target="_blank">M. Errico</a>, and <a href="https://federicorodari.com/" style="text-decoration: none" target="_blank">F. Rodari</a> (<i>Conditionally accepted at Journal of International Economics</i>) </span>
     <span class="line-container">
         <span class="line"></span>
         <span class="arrow">&#x25BC;</span>
@@ -45,6 +31,22 @@ decreasing returns to scale in carriers’ supply. Bargaining, in turn, plays a 
 
 </div>
 
+
+Working Papers
+-----
+<h4 class="expandable-header">
+  <span class="header-text"><a href="https://edoardotolva.github.io/files/edoardotolva-jmp.pdf">One Way or Another: Modes of Transport and International Trade</a> (JMP) </span>
+    <span class="line-container">
+        <span class="line"></span>
+        <span class="arrow">&#x25BC;</span>
+    </span>
+</h4>
+<div style="text-align: justify;" class="expandable-section">
+The transport sector is the backbone of international trade and has faced multiple disruptions in recent years. This paper studies how substitution across transport modes shapes international trade, welfare, and carbon emissions. Motivated by recent disruptions to air and maritime transport, I develop a quantitative multicountry trade model with multiple transport modes and endogenous congestion costs. I estimate the elasticity of substitution between transport modes at the country-pair level using the closure of Russian airspace as a quasi-natural experiment. I find an average elasticity of substitution between air and sea transport of 2.6. Counterfactual simulations show that allowing for mode substitution attenuates welfare losses from mode-specific transport shocks. However, since transport modes differ in carbon intensity, substitution also affects the environmental impact of trade and can weaken the effectiveness of environmental policies. 
+<br> 
+<b>Presented at: </b> <i>ETSG, UEA European Meeting, GEP-CEPR Postgrad Conference, RIEF, EAYE, SETC, CEP/Warwick Junior Trade Workshop, Napoli Parthenope, Midwest Trade Conference, Norwegian School of Economics, World Bank Annual Conference on Transport Economics 2025.  </i>  
+<br>    
+</div>
 
 <!--  
 href="https://edoardotolva.github.io/files/SustainableRelationships_paper.pdf"
