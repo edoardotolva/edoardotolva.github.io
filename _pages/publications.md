@@ -8,9 +8,9 @@ author_profile: true
 <!--
 link to paper :  <span class="header-text"><a href="https://edoardotolva.github.io/files/edoardotolva-jmp.pdf">One Way or Another: Modes of Transport and International Trade</a> (JMP) </span>
 -->
+
 Publications 
 -----
-
 <h4 class="expandable-header">
     <span class="header-text"><a href="https://edoardotolva.github.io/files/CERT_v2.pdf">Oligopolies in Trade and Transportation: Implications for Gains from Trade</a>, with <a href="https://www.enricocristoforoni.com/" style="text-decoration: none" target="_blank">E. Cristoforoni</a>, <a href="https://www.marcoerrico.net/home-page" style="text-decoration: none" target="_blank">M. Errico</a>, and <a href="https://federicorodari.com/" style="text-decoration: none" target="_blank">F. Rodari</a> (<i>Conditionally accepted at Journal of International Economics</i>) </span>
     <span class="line-container">
@@ -28,7 +28,6 @@ decreasing returns to scale in carriers’ supply. Bargaining, in turn, plays a 
     -->
 <b>Awards:</b> <i> Young Economist Award at 17th FIW International Economics Conference </i> 
 <br>
-
 </div>
 
 
