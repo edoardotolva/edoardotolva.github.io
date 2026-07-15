@@ -71,9 +71,8 @@ href="https://edoardotolva.github.io/files/SustainableRelationships_paper.pdf"
     </span>
 </h4>
 <div style="text-align: justify;" class="expandable-section">
- <!-- 
-The environmental impact of agricultural Global Value Chains (GVCs) has become an increasing source of concern. These chains are dominated by large international buyers whose sourcing strategies, shaped by managerial decisions, vary considerably. This paper investigates how such differences in sourcing organization relate to environmental outcomes within agricultural GVCs. Drawing on detailed transaction-level data from Côte d'Ivoire’s cocoa GVC, we find that buyers adopting more relational sourcing strategies are associated with lower levels of deforestation. This effect is mediated by managers’ educational backgrounds which influence the sourcing strategies their firms adopt and, ultimately, deforestation. Overall, the findings highlight the central role of buyer–supplier relationships in either promoting or constraining environmental sustainability in agricultural GVCs.
---> <br>    
+How do firm boundaries shape the allocation of environmentally sustainable inputs in global value chains? In Côte d'Ivoire's cocoa sector, we combine customs records with supply-chain maps linking importers to exporters, cooperatives, departments, and local deforestation. Comparing integrated and non-integrated exporters serving the same importer-year, we find that vertically integrated transactions carry 13% lower cocoa deforestation exposure, about 37 fewer embedded hectares per transaction. The gap is larger for importers with stronger sustainability incentives and smaller for those with more relational sourcing. Our results show that firm boundaries shape how scarce environmentally sustainable inputs are allocated within GVCs.
+ <br>    
 </div>
 
 
