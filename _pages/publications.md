@@ -12,7 +12,7 @@ link to paper :  <span class="header-text"><a href="https://edoardotolva.github.
 Publications 
 -----
 <h4 class="expandable-header">
-    <span class="header-text"><a href="https://edoardotolva.github.io/files/CERT_v2.pdf">Oligopolies in Trade and Transportation: Implications for Gains from Trade</a>, with <a href="https://www.enricocristoforoni.com/" style="text-decoration: none" target="_blank">E. Cristoforoni</a>, <a href="https://www.marcoerrico.net/home-page" style="text-decoration: none" target="_blank">M. Errico</a>, and <a href="https://federicorodari.com/" style="text-decoration: none" target="_blank">F. Rodari</a> (<i>Conditionally accepted at Journal of International Economics</i>) </span>
+    <span class="header-text"><a href="https://edoardotolva.github.io/files/CERT_v2.pdf">Oligopolies in Trade and Transportation: Implications for Gains from Trade</a> (<i>Conditionally accepted at Journal of International Economics</i>), with <a href="https://www.enricocristoforoni.com/" style="text-decoration: none" target="_blank">E. Cristoforoni</a>, <a href="https://www.marcoerrico.net/home-page" style="text-decoration: none" target="_blank">M. Errico</a>, and <a href="https://federicorodari.com/" style="text-decoration: none" target="_blank">F. Rodari</a> </span>
     <span class="line-container">
         <span class="line"></span>
         <span class="arrow">&#x25BC;</span>
