@@ -30,6 +30,18 @@ decreasing returns to scale in carriers’ supply. Bargaining, in turn, plays a 
 <br>
 </div>
 
+<h4 class="expandable-header">
+    <span class="header-text"><a href="https://edoardotolva.github.io/files/transport_erpt_paper.pdf">Transport Mode and the Geography of Exchange Rate Pass-Through</a> (<i>Accepted at Journal of Economic Geography</i>), with <a href="https://sites.google.com/site/davidedelprete1986/" style="text-decoration: none" target="_blank">D. Del Prete</a> and A. Rahman</span>
+    <span class="line-container">
+        <span class="line"></span>
+        <span class="arrow">&#x25BC;</span>
+    </span>
+</h4>
+<div style="text-align: justify;" class="expandable-section">
+This paper examines how transport mode shapes the geography of exchange rate pass-through (ERPT) within Global Value Chains. Using transaction-level customs data from the Bangladeshi garment sector (2018–2024), we exploit the sharp depreciation of the Bangladeshi Taka in 2022 to compare maritime and air-based trade corridors through Chittagong seaport and Dhaka airport. We show that ERPT to exporter prices is incomplete on average and systematically lower in buyer–seller relationships that rely more intensively on air transport. This differential is concentrated in destinations and products where delivery speed is especially valuable, notably European fast-fashion markets.
+<br>    
+</div>
+
 
 Working Papers
 -----
@@ -64,17 +76,6 @@ The environmental impact of agricultural Global Value Chains (GVCs) has become a
 --> <br>    
 </div>
 
-<h4 class="expandable-header">
-    <span class="header-text"><a href="https://edoardotolva.github.io/files/transport_erpt_paper.pdf">Transport Mode and the Geography of Exchange Rate Pass-Through</a> (<i>Reject&R Journal of Economic Geography</i>), with <a href="https://sites.google.com/site/davidedelprete1986/" style="text-decoration: none" target="_blank">D. Del Prete</a> and A. Rahman</span>
-    <span class="line-container">
-        <span class="line"></span>
-        <span class="arrow">&#x25BC;</span>
-    </span>
-</h4>
-<div style="text-align: justify;" class="expandable-section">
-This paper examines how transport mode shapes the geography of exchange rate pass-through (ERPT) within Global Value Chains. Using transaction-level customs data from the Bangladeshi garment sector (2018–2024), we exploit the sharp depreciation of the Bangladeshi Taka in 2022 to compare maritime and air-based trade corridors through Chittagong seaport and Dhaka airport. We show that ERPT to exporter prices is incomplete on average and systematically lower in buyer–seller relationships that rely more intensively on air transport. This differential is concentrated in destinations and products where delivery speed is especially valuable, notably European fast-fashion markets.
-<br>    
-</div>
 
 <!--* Brexit and Goods Trade: A trending topic *(Draft coming soon)*, with  <a href="https://www.bankofengland.co.uk/research/Researchers/john-lewis" style="text-decoration: none" target="_blank">J. Lewis</a> -->
 
