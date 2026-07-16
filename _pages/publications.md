@@ -75,7 +75,6 @@ How do firm boundaries shape the allocation of environmentally sustainable input
  <br>    
 </div>
 
-
 <!--* Brexit and Goods Trade: A trending topic *(Draft coming soon)*, with  <a href="https://www.bankofengland.co.uk/research/Researchers/john-lewis" style="text-decoration: none" target="_blank">J. Lewis</a> -->
 
 <h4 class="expandable-header">
