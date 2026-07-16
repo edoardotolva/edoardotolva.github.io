@@ -64,7 +64,7 @@ href="https://edoardotolva.github.io/files/SustainableRelationships_paper.pdf"
 -->
 
 <h4 class="expandable-header">
-    <span class="header-text"><a >Sustainable Relationships</a> (<i>New version cooming soon</i>), with <a href="https://sites.google.com/site/davidedelprete1986/" style="text-decoration: none" target="_blank">D. Del Prete</a> and <a href="https://trase.earth/team/valentin-guye" style="text-decoration: none" target="_blank">V. Guye</a></span>
+    <span class="header-text"><a href="https://edoardotolva.github.io/files/SustainableRelationships_paper.pdf">Sustainable Relationships</a>, with <a href="https://sites.google.com/site/davidedelprete1986/" style="text-decoration: none" target="_blank">D. Del Prete</a> and <a href="https://trase.earth/team/valentin-guye" style="text-decoration: none" target="_blank">V. Guye</a></span>
     <span class="line-container">
         <span class="line"></span>
         <span class="arrow">&#x25BC;</span>
