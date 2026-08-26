@@ -12,7 +12,7 @@ link to paper :  <span class="header-text"><a href="https://edoardotolva.github.
 Publications 
 -----
 <h4 class="expandable-header">
-    <span class="header-text"><a href="https://edoardotolva.github.io/files/CERT_v2.pdf">Oligopolies in Trade and Transportation: Implications for Gains from Trade</a> (<i>Conditionally accepted at Journal of International Economics</i>), with <a href="https://www.enricocristoforoni.com/" style="text-decoration: none" target="_blank">E. Cristoforoni</a>, <a href="https://www.marcoerrico.net/home-page" style="text-decoration: none" target="_blank">M. Errico</a>, and <a href="https://federicorodari.com/" style="text-decoration: none" target="_blank">F. Rodari</a> </span>
+    <span class="header-text"><a href="https://edoardotolva.github.io/files/CERT_v2.pdf">Oligopolies in Trade and Transportation: Implications for Gains from Trade</a> (<i>Conditionally accepted at Journal of International Economics</i>), with <a href="https://www.enricocristoforoni.com/" style="text-decoration: none" target="_blank">E. Cristoforoni</a>, <a href="https://www.marcoerrico.net/home-page" style="text-decoration: none" target="_blank">M. Errico</a>, and <a href="https://www.bc.edu/bc-web/schools/morrissey/departments/economics/people/teaching-fellows/federico-rodari.html" style="text-decoration: none" target="_blank">F. Rodari</a> </span>
     <span class="line-container">
         <span class="line"></span>
         <span class="arrow">&#x25BC;</span>
@@ -102,7 +102,7 @@ Work in Progress
 <!--
 * Sustainable Relationships (<i>draft coming soon</i>), with <a href="https://sites.google.com/site/davidedelprete1986/" style="text-decoration: none" target="_blank">D. Del Prete</a> and <a href="https://trase.earth/team/valentin-guye" style="text-decoration: none" target="_blank">V. Guye</a>
   -->  
-* Transport Cost Dynamics in the Shipping Industry, with <a href="https://www.marcoerrico.net/home-page" style="text-decoration: none" target="_blank">M. Errico</a>, M. Masullo, and <a href="https://federicorodari.com/" style="text-decoration: none" target="_blank">F. Rodari</a>
+* Transport Cost Dynamics in the Shipping Industry, with <a href="https://www.marcoerrico.net/home-page" style="text-decoration: none" target="_blank">M. Errico</a>, M. Masullo, and <a href="https://www.bc.edu/bc-web/schools/morrissey/departments/economics/people/teaching-fellows/federico-rodari.html" style="text-decoration: none" target="_blank">F. Rodari</a>
 
 * Generalized Translog Gravity, with <a href="https://warwick.ac.uk/fac/soc/economics/staff/dnovy/" style="text-decoration: none" target="_blank">D. Novy</a> with <a href="https://www.surrey.ac.uk/people/joao-santos-silva" style="text-decoration: none" target="_blank">J. Santos Silva</a>
 
