@@ -105,6 +105,8 @@ Work in Progress
 * Transport Cost Dynamics in the Shipping Industry, with <a href="https://www.marcoerrico.net/home-page" style="text-decoration: none" target="_blank">M. Errico</a>, M. Masullo, and <a href="https://federicorodari.com/" style="text-decoration: none" target="_blank">F. Rodari</a>
 
 * Generalized Translog Gravity, with <a href="https://warwick.ac.uk/fac/soc/economics/staff/dnovy/" style="text-decoration: none" target="_blank">D. Novy</a> with <a href="https://www.surrey.ac.uk/people/joao-santos-silva" style="text-decoration: none" target="_blank">J. Santos Silva</a>
+
+* Trade Diversion, Capacity, and Maritime Disruptions, with <a href="https://sites.google.com/site/davidedelprete1986/" style="text-decoration: none" target="_blank">D. Del Prete</a>, <a href="http://www.michelefioretti.com/" style="text-decoration: none" target="_blank">M. Fioretti</a>, and A. Rahman</span>
   
 <!--
 * Endogenous Bilateral Trade Imbalances, with <a href="https://warwick.ac.uk/fac/soc/economics/staff/dnovy/" style="text-decoration: none" target="_blank">D. Novy</a> 
